@@ -1,0 +1,110 @@
+.workspace-leaf-content[data-type="tagfolder-view"]>.view-content,
+.workspace-leaf-content[data-type="tagfolder-view-list"]>.view-content {
+	padding: 0;
+	height: 100%;
+	overflow: unset;
+}
+
+.override-input {
+	flex-direction: column-reverse;
+}
+
+.tagfolder-tag::before {
+	all: inherit;
+	color: inherit;
+	font: inherit;
+}
+
+.tagfolder-tag.tag-tag::before {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.tagfolder-tag.tag-tag span.tf-tag-each:empty {
+	display: none;
+}
+
+.tagfolder-tag.tag-tag span.tf-tag-each:first-child:not(:empty):before {
+	content: "#";
+	margin-left: 0.3em;
+}
+
+.tagfolder-tag.tag-tag span.tf-tag-each::before {
+	content: "→ ";
+	margin-left: 0;
+	margin-right: 0;
+}
+
+
+.tf-taglist {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	padding-left: 1em;
+	overflow: hidden;
+	display: inline-block;
+	flex-shrink: 2;
+	flex-grow: 1;
+	width: auto;
+	min-width: 5em;
+	text-align: right;
+	max-width: 30%;
+}
+
+.tf-taglist .tf-tag {
+	background-color: var(--background-secondary-alt);
+	border-radius: 4px;
+	padding: 2px 4px;
+	margin-left: 4px;
+	color: var(--nav-item-color);
+}
+
+.nav-folder-title:hover .tagfolder-quantity,
+.nav-file-title:hover .tf-taglist {
+	color: var(--text-on-accent);
+}
+
+.nav-folder-title:hover .tagfolder-quantity span,
+.nav-file-title:hover .tf-taglist span.tf-tag {
+	color: var(--text-on-accent);
+	background-color: var(--interactive-accent-hover);
+}
+
+
+.lsl-f {
+	flex-direction: row;
+	display: flex;
+	flex-grow: 1;
+	overflow: hidden;
+	max-width: calc(100%);
+	width: 50%;
+	flex-grow: 1;
+}
+
+.lsl-f:empty::before {
+	content: "...";
+}
+
+.tagfolder-titletagname {
+	flex-grow: 1;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.tagfolder-quantity span {
+	background-color: var(--background-secondary-alt);
+	color: var(--nav-item-color);
+	border-radius: 4px;
+	padding: 2px 4px;
+}
+
+.tagfolder-quantity {
+	width: 3em;
+	text-align: right;
+	cursor: pointer;
+	margin-left: auto;
+}
+
+.tag-folder-title {
+	max-width: 100%;
+}

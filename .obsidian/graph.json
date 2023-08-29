@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#book",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
+    },
+    {
+      "query": "tag:#person",
+      "color": {
+        "a": 1,
+        "rgb": 9130720
+      }
+    },
+    {
+      "query": "tag:#axiom",
+      "color": {
+        "a": 1,
+        "rgb": 15077135
+      }
+    },
+    {
+      "query": "tag:#metaphysics AND tag:#epistemology",
+      "color": {
+        "a": 1,
+        "rgb": 13714207
+      }
+    },
+    {
+      "query": "tag:#metaphysics",
+      "color": {
+        "a": 1,
+        "rgb": 14889265
+      }
+    },
+    {
+      "query": "tag:#epistemology",
+      "color": {
+        "a": 1,
+        "rgb": 15903537
+      }
+    },
+    {
+      "query": "tag:#ethics",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#aesthetics",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#politics",
+      "color": {
+        "a": 1,
+        "rgb": 11809100
+      }
+    },
+    {
+      "query": "tag:#philosophy",
+      "color": {
+        "a": 1,
+        "rgb": 8280152
+      }
+    },
+    {
+      "query": "tag:#year",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.73333333333333,
+  "lineSizeMultiplier": 0.9421875,
+  "collapse-forces": true,
+  "centerStrength": 0.473958333333333,
+  "repelStrength": 20,
+  "linkStrength": 0.619791666666667,
+  "linkDistance": 500,
+  "scale": 0.0889892578125,
+  "close": true
+}

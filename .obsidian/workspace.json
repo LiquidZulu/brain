@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1967b869edf8c4d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "484bb86669619224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb69b11fe828e014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Error in Regarding the Metaphysically Given as Mutable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f05fe5c8066b7a88",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5db021e857e1adf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "485dc0ce994844b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbd3ad581bd82592",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2048bc8d9ac7c7bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "metaphysically given",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6da20eadd5d3672c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "011746fa22a4f99e",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed5886bd805dc2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8d0afba50aedcb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6576bf15785e54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c49d8a75345c6da3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0792c2e5a30ef313",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1728df50b995386",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f05fe5c8066b7a88",
+  "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
+    "Contributing Guide.md",
+    "The Psychological Effects of Regarding the Metaphysically Given as Mutable.md",
+    "The Error in Regarding the Metaphysically Given as Mutable.md",
+    "Omnipotence.md",
+    "The Error in Regarding the Man-Made as Immutable.md",
+    "Forms of the Primacy of Consciousness.md",
+    "The Law of Identity.md",
+    "Primacy of the Social Consciousness.md",
+    "The Categories of Being.md",
+    "The Law of Causality.md",
+    "Objectivism.md",
+    "PWNI.md",
+    "OPAR.md",
+    "Epistemology.md",
+    "Corollary.md",
+    "The Primacy of Existence vs The Primacy of Consciousness.md",
+    "A Consciousness Conscious Only of Itself.md",
+    "1957.md",
+    "The Primacy of Existence as an Objectivist Innovation.md",
+    "The Epistemic Sense of Objectivity.md",
+    "The Meaning of Objectivity.md",
+    "The Metaphysical Sense of Objectivity.md",
+    "The Axiom of Consciousness.md",
+    "1985.md",
+    "Untitled.canvas"
+  ]
+}
