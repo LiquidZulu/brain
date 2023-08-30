@@ -11,8 +11,12 @@
             "id": "1d591b882b366baa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Materialism as a Rejection of the Basic Axioms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materialism as a Rejection of the Basic Axioms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Materialism as a Rejection of the Basic Axioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Materialism as a Rejection of the Basic Axioms.md"
+              }
             }
           }
         ]
@@ -151,6 +159,8 @@
   },
   "active": "1d591b882b366baa",
   "lastOpenFiles": [
+    "The Materialist-Idealist False Dichotomy.md",
+    "Consciousness as Naturalistic.md",
     "Materialism as a Rejection of the Basic Axioms.md",
     "Skinner.md",
     "Human Action.md",
@@ -175,8 +185,6 @@
     "The Axiom of Consciousness.md",
     "PWNI.md",
     "Primacy of the Social Consciousness.md",
-    "God as a Pure Self-Consciousness.md",
-    "Forms of the Primacy of Consciousness.md",
     "Untitled.canvas"
   ]
 }
