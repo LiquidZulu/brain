@@ -11,12 +11,8 @@
             "id": "1d591b882b366baa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "consciousness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,32 +151,32 @@
   },
   "active": "1d591b882b366baa",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "README.md",
-    "CONTRIBUTING.md",
+    "Materialism as a Rejection of the Basic Axioms.md",
+    "Skinner.md",
+    "Human Action.md",
+    "1958.md",
+    "1974.md",
+    "1904.md",
     "1990.md",
-    "Rejections of the Basic Axioms.md",
-    "The Fundamental Axioms of Metaphysics.md",
+    "Marx.md",
+    "Hobbes.md",
+    "1651.md",
+    "1679.md",
+    "1588.md",
+    "Hobbe's Leviathan.md",
+    "Democritus.md",
+    "Innate Knowledge as a Violation of Causality.md",
+    "Idealism.md",
     "Idealism as a Rejection of the Basic Axioms.md",
-    "Protagoras.md",
-    "Primacy of the Personal Consciousness.md",
-    "420 BC.md",
-    "490 BC.md",
-    "Leonard Peikoff.md",
-    "Spiritual vs Material.md",
-    "Mystics of Spirit.md",
     "God as a Rejection of the Basic Axioms.md",
     "Omniscience.md",
+    "Objectivism.md",
+    "Rejections of the Basic Axioms.md",
+    "The Axiom of Consciousness.md",
+    "PWNI.md",
+    "Primacy of the Social Consciousness.md",
     "God as a Pure Self-Consciousness.md",
-    "The Impossibility of Gaining Omniscence.md",
-    "Infinity as a Floating Abstraction.md",
-    "Innate Knowledge as a Violation of Causality.md",
-    "Consciousness.md",
-    "A Consciousness Conscious Only of Itself.md",
-    "The Categories of Being.md",
-    "God as a Miracle-Worker.md",
-    "Miracles are a Metaphysical Impossibility.md",
-    "God as Infinite.md",
+    "Forms of the Primacy of Consciousness.md",
     "Untitled.canvas"
   ]
 }

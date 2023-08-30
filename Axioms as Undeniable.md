@@ -7,7 +7,7 @@ authors: LiquidZulu
 
 >"People disagree about axioms," we often hear. "What is self-evident to one may not be self-evident to another. How then can a man know that his axioms are objectively true? How can he ever be sure he is right?" 
 >
->This argument starts by accepting the concept of "disagreement," which it uses to challenge the objectivity of any axioms, including existence, consciousness, and identity. The following condensed dialogue suggests one strategy by which to reveal the argument's contradictions. The strategy begins with A, the defender of axioms, purporting to reject outright the concept of "disagreement."
+>This argument starts by accepting the concept of "disagreement," which it uses to challenge the [[The Meaning of Objectivity|objectivity]] of any [[Axioms as Irreducible Primaries|axioms]], including [[Existence Exists|existence]], [[The Axiom of Consciousness|consciousness]], and [[The Law of Identity|identity]]. The following condensed dialogue suggests one strategy by which to reveal the argument's contradictions. The strategy begins with A, the defender of axioms, purporting to reject outright the concept of "disagreement."
 >
 >A. "Your objection to the self-evident has no validity. There is no such thing as disagreement. People agree about everything."
 >
@@ -25,7 +25,7 @@ authors: LiquidZulu
 >
 >B. "That's impossible. If two ideas contradict each other, they can't both be right. Contradictions can't exist in reality. After all, things are what they are. A is A."
 >
->Existence, consciousness, identity are presupposed by every statement and by every concept, including that of "disagreement." (They are presupposed even by invalid concepts, such as "ghost" or "analytic" truth.) In the act of voicing his objection, therefore, the objector has conceded the case. In any act of challenging or denying the three axioms, a man reaffirms them, no matter what the particular content of his challenge. The axioms are invulnerable.
+>Existence, consciousness, identity are presupposed by every statement and by every concept, including that of "disagreement." (They are presupposed even by invalid concepts, such as "ghost" or "[[Analytic|analytic]]" truth.) In the act of voicing his objection, therefore, the objector has conceded the case. In any act of challenging or denying the three axioms, a man reaffirms them, no matter what the particular content of his challenge. The axioms are invulnerable.
 > 
 >The opponents of these axioms pose as defenders of truth, but it is only a pose. Their attack on the self-evident amounts to the charge: "Your belief in an idea doesn't necessarily make it true; you must prove it, because facts are what they are independent of your beliefs." Every element of this charge relies on the very axioms that these people are questioning and supposedly setting aside. 
 

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#book",
@@ -53,7 +53,7 @@
       "query": "tag:#ethics",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 5408992
       }
     },
     {
@@ -68,6 +68,27 @@
       "color": {
         "a": 1,
         "rgb": 11809100
+      }
+    },
+    {
+      "query": "tag:#economics",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#jurisprudence",
+      "color": {
+        "a": 1,
+        "rgb": 5431518
+      }
+    },
+    {
+      "query": "tag:#praxeology",
+      "color": {
+        "a": 1,
+        "rgb": 3988903
       }
     },
     {
@@ -95,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 0.619791666666667,
   "linkDistance": 500,
-  "scale": 0.3003387451171875,
+  "scale": 0.03955078125,
   "close": true
 }
