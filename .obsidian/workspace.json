@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materialism as a Rejection of the Basic Axioms.md",
+                "file": "Consciousness as Naturalistic.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "consciousness",
+                "query": "introspe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materialism as a Rejection of the Basic Axioms.md",
+                "file": "Consciousness as Naturalistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materialism as a Rejection of the Basic Axioms.md",
+                "file": "Consciousness as Naturalistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materialism as a Rejection of the Basic Axioms.md"
+                "file": "Consciousness as Naturalistic.md"
               }
             }
           }
@@ -159,9 +158,9 @@
   },
   "active": "1d591b882b366baa",
   "lastOpenFiles": [
+    "Materialism as a Rejection of the Basic Axioms.md",
     "The Materialist-Idealist False Dichotomy.md",
     "Consciousness as Naturalistic.md",
-    "Materialism as a Rejection of the Basic Axioms.md",
     "Skinner.md",
     "Human Action.md",
     "1958.md",
