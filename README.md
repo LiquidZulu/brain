@@ -2,10 +2,18 @@
 tags: meta
 ---
 
-My brain in Obsidian
+My brain in [Obsidian](https://obsidian.md/).
 
-## Contributing Guide
-- This is an [Obsidian](https://obsidian.md/) vault.
-- Add tags to the YAML frontmatter under the `tags` key. Each note must include tags. Author(s) can be specified under the `authors` key. 
-- Keep notes *atomic*. This is analogous to the separation of concerns principle in computer science, but applied universally. Each note should describe one thing and one thing only, when you start describing multiple things break the topic into separate notes. A good rule of thumb on this is that if you find that you start needing to use section headings, you are probably going too far.
+## Installation
+Use `git clone git@github.com:LiquidZulu/brain.git` to install, then you can update with [git pull](https://www.git-scm.com/docs/git-pull).
 
+## Usage
+After downloading open the local repo as a vault in Obsidian.
+
+## Contributing
+If you wish to contribute notes to this vault please see [[CONTRIBUTING]], and [open a pull request](https://github.com/LiquidZulu/brain/pulls). Prior to writing or altering an existing note you should [open an issue](https://github.com/LiquidZulu/brain/issues) to ensure that it is not already being handled by someone or is not a good fit for this repo.
+
+## License
+Refer to [[LICENSE]] for the legalese, you can do whatever you want with this software, I don't give a damn, intellectual monopolies are criminal threats that should be abolished post-haste.[^1]
+
+[^1]: See: LiquidZulu, *Why Artists Shouldn't Own Their Art*, https://youtu.be/4xKjHHzLUQQ

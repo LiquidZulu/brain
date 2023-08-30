@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "484bb86669619224",
+        "id": "71b2f8de61194da1",
         "type": "tabs",
         "children": [
           {
-            "id": "bb69b11fe828e014",
+            "id": "1d591b882b366baa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Error in Regarding the Metaphysically Given as Mutable.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f05fe5c8066b7a88",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metaphysically given",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -160,34 +156,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f05fe5c8066b7a88",
+  "active": "1d591b882b366baa",
   "lastOpenFiles": [
     "LICENSE.md",
     "README.md",
-    "Contributing Guide.md",
-    "The Psychological Effects of Regarding the Metaphysically Given as Mutable.md",
-    "The Error in Regarding the Metaphysically Given as Mutable.md",
-    "Omnipotence.md",
-    "The Error in Regarding the Man-Made as Immutable.md",
-    "Forms of the Primacy of Consciousness.md",
-    "The Law of Identity.md",
-    "Primacy of the Social Consciousness.md",
-    "The Categories of Being.md",
-    "The Law of Causality.md",
-    "Objectivism.md",
-    "PWNI.md",
-    "OPAR.md",
-    "Epistemology.md",
-    "Corollary.md",
-    "The Primacy of Existence vs The Primacy of Consciousness.md",
+    "CONTRIBUTING.md",
+    "1990.md",
+    "Rejections of the Basic Axioms.md",
+    "The Fundamental Axioms of Metaphysics.md",
+    "Idealism as a Rejection of the Basic Axioms.md",
+    "Protagoras.md",
+    "Primacy of the Personal Consciousness.md",
+    "420 BC.md",
+    "490 BC.md",
+    "Leonard Peikoff.md",
+    "Spiritual vs Material.md",
+    "Mystics of Spirit.md",
+    "God as a Rejection of the Basic Axioms.md",
+    "Omniscience.md",
+    "God as a Pure Self-Consciousness.md",
+    "The Impossibility of Gaining Omniscence.md",
+    "Infinity as a Floating Abstraction.md",
+    "Innate Knowledge as a Violation of Causality.md",
+    "Consciousness.md",
     "A Consciousness Conscious Only of Itself.md",
-    "1957.md",
-    "The Primacy of Existence as an Objectivist Innovation.md",
-    "The Epistemic Sense of Objectivity.md",
-    "The Meaning of Objectivity.md",
-    "The Metaphysical Sense of Objectivity.md",
-    "The Axiom of Consciousness.md",
-    "1985.md",
+    "The Categories of Being.md",
+    "God as a Miracle-Worker.md",
+    "Miracles are a Metaphysical Impossibility.md",
+    "God as Infinite.md",
     "Untitled.canvas"
   ]
 }
