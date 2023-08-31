@@ -11,8 +11,12 @@
             "id": "1d591b882b366baa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aristotle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aristotle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aristotle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Aristotle.md"
+              }
             }
           }
         ]
@@ -163,6 +171,11 @@
   },
   "active": "1d591b882b366baa",
   "lastOpenFiles": [
+    "343 BC.md",
+    "Aristotle.md",
+    "347 BC.md",
+    "322 BC.md",
+    "384 BC.md",
     "Primacy of the Supernatural Consciousness.md",
     "Consciousness as Naturalistic.md",
     "Epistemology.md",
@@ -184,11 +197,6 @@
     "1679.md",
     "1588.md",
     "Hobbe's Leviathan.md",
-    "Democritus.md",
-    "Innate Knowledge as a Violation of Causality.md",
-    "Idealism.md",
-    "Idealism as a Rejection of the Basic Axioms.md",
-    "God as a Rejection of the Basic Axioms.md",
     "Untitled.canvas"
   ]
 }

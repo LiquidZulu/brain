@@ -23,14 +23,7 @@
       "key": "R"
     }
   ],
-  "editor:save-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
+  "editor:save-file": [],
   "command-palette:open": [
     {
       "modifiers": [
@@ -44,5 +37,37 @@
       ],
       "key": "X"
     }
-  ]
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "app:open-settings": []
 }
