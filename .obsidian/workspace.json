@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Communist Manifesto.md",
+                "file": "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Communist Manifesto.md",
+                "file": "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Communist Manifesto.md",
+                "file": "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Communist Manifesto.md"
+                "file": "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md"
               }
             }
           }
@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +171,15 @@
   },
   "active": "1d591b882b366baa",
   "lastOpenFiles": [
+    "Epistemology.md",
+    "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md",
+    "1904.md",
+    "ITOE.md",
+    "1990.md",
+    "Skinner.md",
+    "PWNI.md",
     "The Communist Manifesto.md",
+    "1848.md",
     "Aristotle.md",
     "343 BC.md",
     "347 BC.md",
@@ -178,24 +187,16 @@
     "384 BC.md",
     "Primacy of the Supernatural Consciousness.md",
     "Consciousness as Naturalistic.md",
-    "Epistemology.md",
     "A Consciousness Conscious Only of Itself.md",
-    "A Physical Explanation for Consciousness or Free Will do not Negate Their Existence.md",
     "The Materialist-Idealist False Dichotomy.md",
     "Consciousness as Unscientific Because it Cannot be Defined.md",
     "Axioms as Irreducible Primaries.md",
     "Materialism as a Rejection of the Basic Axioms.md",
-    "Skinner.md",
     "Human Action.md",
     "1958.md",
     "1974.md",
-    "1904.md",
-    "1990.md",
     "Marx.md",
     "Hobbes.md",
-    "1651.md",
-    "1679.md",
-    "1588.md",
     "Untitled.canvas"
   ]
 }
