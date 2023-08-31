@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe0ff2cccb91d2ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consciousness as Naturalistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consciousness as Naturalistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Consciousness as Naturalistic.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,11 +161,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d591b882b366baa",
+  "active": "fe0ff2cccb91d2ed",
   "lastOpenFiles": [
+    "Consciousness as Naturalistic.md",
+    "Consciousness as Unscientific Because it Cannot be Defined.md",
+    "Axioms as Irreducible Primaries.md",
     "Materialism as a Rejection of the Basic Axioms.md",
     "The Materialist-Idealist False Dichotomy.md",
-    "Consciousness as Naturalistic.md",
     "Skinner.md",
     "Human Action.md",
     "1958.md",
@@ -182,8 +189,6 @@
     "Objectivism.md",
     "Rejections of the Basic Axioms.md",
     "The Axiom of Consciousness.md",
-    "PWNI.md",
-    "Primacy of the Social Consciousness.md",
     "Untitled.canvas"
   ]
 }
