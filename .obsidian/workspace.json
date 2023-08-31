@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ac7daa507115fe4",
+            "id": "ecd8a38dfc23f091",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Epistemology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7698ab1972486ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf47df0403608506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Characteristics of Entities.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Characteristics of Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Characteristics of Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Characteristics of Entities.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,10 +149,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf47df0403608506",
+  "active": "ecd8a38dfc23f091",
   "lastOpenFiles": [
-    "Entity.md",
+    "Examples of Entities.md",
     "The Characteristics of Entities.md",
+    "Entity.md",
     "The Metaphysical Status of Sensory Qualities.md",
     "Epistemology.md",
     "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md",
@@ -209,7 +177,6 @@
     "Axioms as Irreducible Primaries.md",
     "Materialism as a Rejection of the Basic Axioms.md",
     "Human Action.md",
-    "1958.md",
     "Untitled.canvas"
   ]
 }
