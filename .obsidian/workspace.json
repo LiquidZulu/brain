@@ -23,12 +23,28 @@
             "id": "fe0ff2cccb91d2ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Consciousness as Naturalistic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ac7daa507115fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Physical Explanation for Consciousness or Free Will do not Negate Their Existence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A Physical Explanation for Consciousness or Free Will do not Negate Their Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A Physical Explanation for Consciousness or Free Will do not Negate Their Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A Physical Explanation for Consciousness or Free Will do not Negate Their Existence.md"
+              }
             }
           }
         ]
@@ -161,13 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe0ff2cccb91d2ed",
+  "active": "dbd3ad581bd82592",
   "lastOpenFiles": [
+    "The Materialist-Idealist False Dichotomy.md",
+    "A Physical Explanation for Consciousness or Free Will do not Negate Their Existence.md",
     "Consciousness as Naturalistic.md",
     "Consciousness as Unscientific Because it Cannot be Defined.md",
     "Axioms as Irreducible Primaries.md",
     "Materialism as a Rejection of the Basic Axioms.md",
-    "The Materialist-Idealist False Dichotomy.md",
     "Skinner.md",
     "Human Action.md",
     "1958.md",
@@ -188,7 +208,6 @@
     "Omniscience.md",
     "Objectivism.md",
     "Rejections of the Basic Axioms.md",
-    "The Axiom of Consciousness.md",
     "Untitled.canvas"
   ]
 }
