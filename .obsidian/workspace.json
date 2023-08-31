@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aristotle.md",
+                "file": "The Communist Manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aristotle.md",
+                "file": "The Communist Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aristotle.md",
+                "file": "The Communist Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aristotle.md"
+                "file": "The Communist Manifesto.md"
               }
             }
           }
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +170,9 @@
   },
   "active": "1d591b882b366baa",
   "lastOpenFiles": [
-    "343 BC.md",
+    "The Communist Manifesto.md",
     "Aristotle.md",
+    "343 BC.md",
     "347 BC.md",
     "322 BC.md",
     "384 BC.md",
@@ -196,7 +196,6 @@
     "1651.md",
     "1679.md",
     "1588.md",
-    "Hobbe's Leviathan.md",
     "Untitled.canvas"
   ]
 }
