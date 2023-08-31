@@ -1,5 +1,5 @@
 ---
-tags: metaphysics
+tags: metaphysics, philosophy
 authors: LiquidZulu
 ---
 

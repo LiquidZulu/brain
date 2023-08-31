@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Metaphysical Status of Sensory Qualities.md",
+                "file": "Entity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf47df0403608506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Characteristics of Entities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Metaphysical Status of Sensory Qualities.md",
+                "file": "The Characteristics of Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Metaphysical Status of Sensory Qualities.md",
+                "file": "The Characteristics of Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Metaphysical Status of Sensory Qualities.md"
+                "file": "The Characteristics of Entities.md"
               }
             }
           }
@@ -170,10 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7698ab1972486ee",
+  "active": "cf47df0403608506",
   "lastOpenFiles": [
-    "Epistemology.md",
+    "Entity.md",
+    "The Characteristics of Entities.md",
     "The Metaphysical Status of Sensory Qualities.md",
+    "Epistemology.md",
     "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md",
     "1904.md",
     "ITOE.md",
@@ -196,8 +210,6 @@
     "Materialism as a Rejection of the Basic Axioms.md",
     "Human Action.md",
     "1958.md",
-    "1974.md",
-    "Marx.md",
     "Untitled.canvas"
   ]
 }
