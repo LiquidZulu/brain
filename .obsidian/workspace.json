@@ -14,8 +14,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a5c7dc3d4d6da450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db201e4efb124dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innate Knowledge as a Violation of Causality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "innate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -91,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,15 +154,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +176,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ecd8a38dfc23f091",
+  "active": "a5c7dc3d4d6da450",
   "lastOpenFiles": [
+    "The Pre-Requisites of Epistemology.md",
+    "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
+    "Epistemology as Dependent Upon the Primacy of Existence.md",
+    "Innate Knowledge as a Violation of Causality.md",
+    "Validation.md",
     "Examples of Entities.md",
     "The Characteristics of Entities.md",
     "Entity.md",
@@ -172,11 +204,6 @@
     "Primacy of the Supernatural Consciousness.md",
     "Consciousness as Naturalistic.md",
     "A Consciousness Conscious Only of Itself.md",
-    "The Materialist-Idealist False Dichotomy.md",
-    "Consciousness as Unscientific Because it Cannot be Defined.md",
-    "Axioms as Irreducible Primaries.md",
-    "Materialism as a Rejection of the Basic Axioms.md",
-    "Human Action.md",
     "Untitled.canvas"
   ]
 }
