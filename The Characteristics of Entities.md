@@ -1,7 +1,11 @@
 ---
-tags: metaphysics, philosophy
-authors: LiquidZulu
-aliases: the characteristsics of entities
+tags:
+  - metaphysics
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - the characteristsics of entities
 ---
 
 Whilst [[Entity|entities]] are fundamentally ostensive, we can still say that an entity has these characteristics:

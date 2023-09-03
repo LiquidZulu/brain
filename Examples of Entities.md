@@ -1,6 +1,8 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+authors: "[[LiquidZulu]]"
 ---
 
 As explained, an [[Entity|entity]] is [[Axioms as Irreducible Primaries|axiomatic]], and as such is defined *ostensively*. However, given [[The Characteristics of Entities|the characteristsics of entities]], we can elaborate on a few examples and non-examples to drive the [[Concept|concept]] home.

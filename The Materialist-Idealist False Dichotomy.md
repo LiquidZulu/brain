@@ -1,7 +1,12 @@
 ---
-tags: philosophy, metaphysics, epistemology
-authors: LiquidZulu
-aliases: the materialist-idealist false dichotomy
+tags:
+  - philosophy
+  - metaphysics
+  - epistemology
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - the materialist-idealist false dichotomy
 ---
 
 [[Idealism]] has long-claimed that [[Consciousness|consciousness]] (the "soul") is spiritual, divine, that it is a "[[Mysticism|mystic]] ingredient longing to escape the 'prison of the flesh'."[^1] This sets the false-dichotomy: either accept overt [[Mystics of Spirit|spirit mysticism]] by endorsing the consciousness *or* reject the consciousness and [[Reason|reason]] to be "scientific." 

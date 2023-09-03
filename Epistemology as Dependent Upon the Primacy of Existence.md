@@ -1,7 +1,13 @@
 ---
-tags: philosophy, metaphysics, epistemology
-authors: LiquidZulu
-aliases: the pre-suppositions of epistemology, the requirements of epistemology, epistemology depends on the primacy of existence
+tags:
+  - philosophy
+  - metaphysics
+  - epistemology
+authors: "[[LiquidZulu]]"
+aliases:
+  - the pre-suppositions of epistemology
+  - the requirements of epistemology
+  - epistemology depends on the primacy of existence
 ---
 
 [[Epistemology]] studies the nature and means of human knowledge---the processes by which knowledge is acquired and the rules concerning its [[Validation|validity]]. Implicitly, this means that man can gain [[Knowledge|knowledge]] only by engaging in certain processes, and not others. If man could gain knowledge in any way he saw fit, there would be no place for a science studying the ways in which man can acquire it---"how does man gain knowledge and [[Logic|validate his conclusions]]?" would be properly answered by "however the hell he wants!", there would be no need for a complex study of this topic.

@@ -1,7 +1,11 @@
 ---
-tags: metaphysics, epistemology, philosophy
-author: LiquidZulu
-aliases: primacy of the supernatural consciousness
+tags:
+  - metaphysics
+  - epistemology
+  - philosophy
+author: "[[LiquidZulu]]"
+aliases:
+  - primacy of the supernatural consciousness
 ---
 
 Under the [[Omnipotence|supernaturalistic]] primacy of consciousness, [[Existence Exists|existence]] is a product of and subservient to a divine consciousness, namely [[God]]. This is implicit in [[Plato]] and made explicit in the early [[Christianity|Christian]] philosophy. A believer of this view will often ask something like "[[The Universe as Eternal|who created the universe]]?"---they ask this because they reject that you can have existence as the starting point, "but what caused existence to exist?" then they will happily take the divine consciousness as the starting point. So they agree that there has to be some [[Axioms as Irreducible Primaries|irreducible primary]], they are just unsatisfied with existence being said primary. 

@@ -1,7 +1,10 @@
 ---
-tags: metaphysics, philosophy
-authors: LiquidZulu
-aliases: infinity
+tags:
+  - metaphysics
+  - philosophy
+authors: "[[LiquidZulu]]"
+aliases:
+  - infinity
 ---
 
 Treating "infinity" as an [[Actual|actual]] rather than a [[Potential|potential]] is an error (a [[Floating Abstraction|floating abstraction]])---there is no *actual* infinity. 

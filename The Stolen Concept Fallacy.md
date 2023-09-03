@@ -1,7 +1,11 @@
 ---
-tags: philosophy, epistemology
-authors: LiquidZulu
-aliases: stolen concept
+tags:
+  - philosophy
+  - epistemology
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - stolen concept
 ---
 
 >The “stolen concept” [[Logical Fallacy|fallacy]], first identified by [[Ayn Rand]], is the fallacy of using a [[Concept|concept]] while denying the validity of its genetic roots, i.e., of an earlier concept(s) on which it logically depends.[^1]

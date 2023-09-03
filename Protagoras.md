@@ -1,6 +1,8 @@
 ---
-tags: person
-authors: Wikipedians
+tags:
+  - person
+authors:
+  - "[[Wikipedians]]"
 ---
 
 **Protagoras** (/prəʊˈtæɡəˌræs/; Greek: Πρωταγόρας; c. [[490 BC]] – c. [[420 BC]]) was a [[Pre-Socratic|pre-Socratic]] Greek philosopher and [[Rhetoric|rhetorical]] theorist. He is numbered as one of the [[Sophistry|sophists]] by [[Plato]]. In his dialogue _[[Protagoras (Dialogue)|Protagoras]]_, Plato credits him with inventing the role of the professional sophist.

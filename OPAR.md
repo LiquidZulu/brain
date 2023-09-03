@@ -1,7 +1,16 @@
 ---
-authors: Leonard Peikoff
+authors:
+  - "[[Leonard Peikoff]]"
 title: "Objectivism: The Philosophy of Ayn Rand"
-tags: book, non-fiction, philosophy, metaphysics, epistemology, ethics, politics, aesthetics
+tags:
+  - book
+  - non-fiction
+  - philosophy
+  - metaphysics
+  - epistemology
+  - ethics
+  - politics
+  - aesthetics
 ---
 
 *Objectivism: The Philosophy of Ayn Rand*, Meridian ([[1991]])

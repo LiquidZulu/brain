@@ -1,7 +1,10 @@
 ---
-tags: philosophy
-authors: LiquidZulu
-aliases: axiom, irreducible primary
+tags:
+  - philosophy
+authors: "[[LiquidZulu]]"
+aliases:
+  - axiom
+  - irreducible primary
 ---
 
 The term "axiom" as used in philosophy has a distinct meaning than "axiom" as mathematicians often use it. The mathematician (at least the modern one) normally uses "axioms" to denote a set of inter-consistent but arbitrarily selected rules for a given arbitrarily selected "system of logic."[^1] These are assumptions that are taken to be true in order to allow for further reasoning within the given domain, but that are not (or perhaps cannot) be validated.

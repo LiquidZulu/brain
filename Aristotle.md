@@ -1,6 +1,7 @@
 ---
-tags: person
-authors: Wikipedians
+tags:
+  - person
+authors: "[[Wikipedians]]"
 ---
 
 **Aristotle** (/ˈærɪstɒtəl/; Greek: Ἀριστοτέλης _Aristotélēs_, pronounced \[aristotélɛːs]; [[384 BC|384]]–[[322 BC]]) was an Ancient Greek [[Philosophy|philosopher]] and polymath. His writings cover a broad range of subjects spanning the [[The Natural Sciences|natural sciences]], [[Philosophy|philosophy]], [[Linguistics|linguistics]], [[Economics|economics]], [[Politics|politics]], [[Psychology|psychology]] and [[Aesthetics|the arts]]. As the founder of the [[The Peripatetic School|Peripatetic school]] of philosophy in the Lyceum in Athens, he began the wider [[Aristotelianism|Aristotelian]] tradition that followed, which set the groundwork for the development of modern science.

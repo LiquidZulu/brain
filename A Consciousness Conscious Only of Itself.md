@@ -1,7 +1,12 @@
 ---
-tags: metaphysics, epistemology, philosophy
-authors: LiquidZulu
-aliases: pure self-consciousness, a consciousness conscious only of itself
+tags:
+  - metaphysics
+  - epistemology
+  - philosophy
+authors: "[[LiquidZulu]]"
+aliases:
+  - pure self-consciousness
+  - a consciousness conscious only of itself
 ---
 
 The notion of a [[Consciousness|consciousness]] conscious only of itself is a common form of [[The Primacy of Existence vs The Primacy of Consciousness|the fallacy of the primacy of consciousness]]. It can be easily attacked on those grounds but simply more straight-forwardly it is a contradiction in terms: 

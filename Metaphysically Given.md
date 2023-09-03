@@ -1,7 +1,11 @@
 ---
-tags: metaphysics, philosophy
-authors: LiquidZulu
-aliases: metaphysically given
+tags:
+  - metaphysics
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - metaphysically given
 ---
 
 What is meant by a "metaphysically given" fact is a fact inherent in [[Existence Exists|existence]] apart from human action, as against [[Man-Made Facts|man-made facts]], which refer to those facts caused by the choices of man.

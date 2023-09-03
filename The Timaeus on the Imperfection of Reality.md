@@ -1,6 +1,10 @@
 ---
-tags: philosophy, metaphysics, history-of-philosophy
-authors: Leonard Peikoff
+tags:
+  - philosophy
+  - metaphysics
+  - history-of-philosophy
+authors:
+  - "[[Leonard Peikoff]]"
 ---
 
 >The classic statement of [[The Error in Regarding the Metaphysically Given as Mutable|this philosophy]] is given by [[Plato]]. In the *[[Timaeus]]*, discussing the formation of the physical world, Plato recounts the myth of [[Demiurge|the demiurge]]. Matter, we are told, was originally unformed and [[Chaos|chaotic]]; a [[God|godlike]] soul enters and tries to shape the chaos into a realm of perfect beauty. The demiurge, however, fails; matter proves to be recalcitrant; it takes the imprint of beauty only so far and thereafter resists all efforts to perfect it. Hence, Plato concludes, matter is a principle of imperfection, inherently in conflict with the highest ideals of the spirit. In a perfect universe, [[The Primacy of Existence vs The Primacy of Consciousness|matter should obey consciousness]] without reservation. Since it does not, the universe—not any [[Man-Made Facts|man-made]] group or institution, but the physical universe itself—is flawed; it is a perpetual battleground of the noble vs. the actual.

@@ -1,7 +1,11 @@
 ---
-tags: metaphysics, philosophy
-authors: LiquidZulu
-aliases: entity, entities
+tags:
+  - metaphysics
+  - philosophy
+authors: "[[LiquidZulu]]"
+aliases:
+  - entity
+  - entities
 ---
 
 In [[Metaphysics|metaphysics]], *entities* are those constituents of the world---they are the *[[The Law of Identity|things]]* that [[Existence Exists|exist]]. Entity is an [[Axioms as Irreducible Primaries|axiomatic]] [[Concept|concept]], it is therefore not subject to any definition beyond an *ostensive* one, that is by pointing to examples:

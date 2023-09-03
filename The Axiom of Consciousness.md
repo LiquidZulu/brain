@@ -1,6 +1,10 @@
 ---
-tags: philosophy, metaphysics, axiom
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+  - axiom
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 The act of grasping the first [[The Fundamental Axioms of Metaphysics|axiom]] of philosophy, that [[Existence Exists|existence exists]], implies the second: that you exist possessing *[[Consciousness|consciousness]]*.[^1]

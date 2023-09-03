@@ -1,6 +1,10 @@
 ---
-tags: epistemology, metaphysics, philosophy
-authors: LiquidZulu
+tags:
+  - epistemology
+  - metaphysics
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 An example of this kind of error is in seen in those "[[Political Realism|political realists]]" who assert that we must be "realistic" and not oppose the status quo. "Hey, if you break the law then the cops will beat you--that's reality--there is no point in fighting it." Here, "reality" in the man-made sense is equated with "reality" in the metaphysical sense---the metaphysically given is not open to opposition or alteration, it simply *is*; the man-made, on the other hand, is open to such opposition and alteration.

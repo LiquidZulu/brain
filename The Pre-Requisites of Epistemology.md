@@ -1,6 +1,9 @@
 ---
-tags: philosophy, epistemology
-authors: LiquidZulu
+tags:
+  - philosophy
+  - epistemology
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 >[[Epistemology]] is based on the premise that man can acquire [[Knowledge|knowledge]] *only* if he performs [[Logic|certain definite processes]]. This premise means that a man cannot accept ideas at random and count them as knowledge merely because he feels like it. Why not?[^1]

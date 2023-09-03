@@ -1,6 +1,8 @@
 ---
-tags: epistemology, philosophy
-authors: LiquidZulu
+tags:
+  - epistemology
+  - philosophy
+authors: "[[LiquidZulu]]"
 ---
 
 [[Epistemology]] provides man with guidance for his cognitive faculty, it tells man that he can gain [[Knowledge|knowledge]] only through specific means, [[Epistemology as Dependent Upon the Primacy of Existence|not how ever he feels]]. [[The Primacy of Existence vs The Primacy of Consciousness|Existence has primacy]] for all animals, of course, but man specifically has a [[Concept|conceptual]] [[Consciousness|consciousness]], which leads to a very important fact: [[Thought vs Evasion|his mind is not automatic]] [[The Validation of Free Will|or infallible]].

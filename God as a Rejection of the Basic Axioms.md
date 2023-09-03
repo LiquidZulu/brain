@@ -1,6 +1,8 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+authors: "[[LiquidZulu]]"
 ---
 
 - [[God as the Creator]]

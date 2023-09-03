@@ -1,6 +1,9 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 The dichotomy of "spiritual" vs "material" is the broadest form of various other dichotomies that result from [[The Primacy of Existence vs The Primacy of Consciousness|the primacy of consciousness]]. This dichotomy is represented in [[Plato|Plato's]] *[[The Timaeus on the Imperfection of Reality|Timaeus]]* where the [[Demiurge]] is said to be unable to shape the [[Chaos|chaotic]] world into a realm of beauty, hence [[The Timaeus on the Imperfection of Reality|reality is imperfect]]. Various other forms of this dichotomy include:[^1]

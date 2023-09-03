@@ -1,7 +1,13 @@
 ---
-tags: philosophy, metaphysics, axiom
-authors: LiquidZulu
-aliases: existence exists, existence axiom, existence
+tags:
+  - philosophy
+  - metaphysics
+  - axiom
+authors: "[[LiquidZulu]]"
+aliases:
+  - existence exists
+  - existence axiom
+  - existence
 ---
 
 That existence exists is the most fundamental [[Axioms as Irreducible Primaries|axiom]] in all of philosophy, and any deviation from having this at the root [[The Primacy of Existence vs The Primacy of Consciousness|leads to utter disaster]].

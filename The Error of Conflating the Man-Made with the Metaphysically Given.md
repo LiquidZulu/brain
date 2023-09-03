@@ -1,6 +1,10 @@
 ---
-tags: epistemology, metaphysics, philosophy
-authors: LiquidZulu
+tags:
+  - epistemology
+  - metaphysics
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 The conflation between the [[Man-Made Facts|man-made]] and the [[Metaphysically Given|metaphysically given]] leads to a series of disastrous errors.

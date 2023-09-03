@@ -1,6 +1,8 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+authors: "[[LiquidZulu]]"
 ---
 
 God is said to be purely spiritual, but a [[A Consciousness Conscious Only of Itself|pure self-consciousness]] is ruled out by the argument against [[The Primacy of Existence vs The Primacy of Consciousness|the primacy of consciousness]].

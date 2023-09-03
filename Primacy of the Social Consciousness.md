@@ -1,7 +1,11 @@
 ---
-tags: metaphysics, epistemology, philosophy
-author: LiquidZulu
-aliases: primacy of the social consciousness
+tags:
+  - metaphysics
+  - epistemology
+  - philosophy
+author: "[[LiquidZulu]]"
+aliases:
+  - primacy of the social consciousness
 ---
 
 This [[Forms of the Primacy of Consciousness|form of the primacy of consciousness]] is primarily a secularisation of the [[Primacy of the Supernatural Consciousness|primacy of the supernatural consciousness]], developed most prominently by [[Immanuel Kant]], and made explicit by the [[Hegel|Hegelian]] development from Kant. On Kant's view, the human mind--the innate cognitive structures common to all men, their innate forms of perception and conception--is what creates existence (the so-called "[[Phenomenal|phenomenal]]" world). 

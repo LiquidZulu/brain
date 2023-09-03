@@ -1,7 +1,11 @@
 ---
-tags: person
-authors: Wikipedians
-aliases: Platon, Aristocles
+tags:
+  - person
+authors:
+  - "[[Wikipedians]]"
+aliases:
+  - Platon
+  - Aristocles
 ---
 
 **Plato** (/ˈpleɪtoʊ/ _PLAY-toe_; Greek: Πλάτων _Plátōn_; [[428 BC|428]]/[[427 BC|427]] or [[424 BC|424]]/[[423 BC|423]] – [[348 BC]]) was an ancient Greek philosopher born in Athens during the Classical period in Ancient Greece.

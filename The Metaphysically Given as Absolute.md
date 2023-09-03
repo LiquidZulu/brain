@@ -1,7 +1,11 @@
 ---
-tags: metaphysics, philosophy
-authors: LiquidZulu
-aliases: the necessary/contingent dichotomy
+tags:
+  - metaphysics
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - the necessary/contingent dichotomy
 ---
 
 Because [[Existence Exists|existence exists]] there are no alternatives possible as far as [[Metaphysics|metaphysics]] is concerned---the [[Metaphysically Given|metaphysically given]] is immutable, *absolute*.

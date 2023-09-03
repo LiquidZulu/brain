@@ -1,7 +1,11 @@
 ---
-tags: metaphysics, epistemology, philosophy
-author: LiquidZulu
-aliases: form of the primacy of consciousness
+tags:
+  - metaphysics
+  - epistemology
+  - philosophy
+author: "[[LiquidZulu]]"
+aliases:
+  - form of the primacy of consciousness
 ---
 
 There are three main forms of [[The Primacy of Existence vs The Primacy of Consciousness|the primacy of consciousness]]:

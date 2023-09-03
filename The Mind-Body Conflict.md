@@ -1,6 +1,9 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 >The theory of a mind-body conflict, which has corrupted every branch and issue of philosophy, does have its root in a real conflict, but of a special kind. Its root is a breach between some men's consciousness and existence. In this sense, the basis of the theory is not reality, but a human error: the error of turning away from reality, of refusing to accept the absolutism of the metaphysically given.

@@ -1,6 +1,9 @@
 ---
-tags: philosophy, metaphysics, epistemology
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+  - epistemology
+authors: "[[LiquidZulu]]"
 ---
 
 [[Idealism]] is [[Mystics of Spirit|spirit mysticism]], and accordingly rests upon a belief in a transcendent [[Omnipotence|super-nature]] that [[Primacy of the Supernatural Consciousness|controls]] the world as we see it---which is itself [[The Timaeus on the Imperfection of Reality|seen as deficient]]. 

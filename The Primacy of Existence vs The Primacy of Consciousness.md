@@ -1,7 +1,13 @@
 ---
-tags: philosophy, metaphysics, epistemology
-authors: LiquidZulu
-aliases: the primacy of consciousness, the primacy of existence
+tags:
+  - philosophy
+  - metaphysics
+  - epistemology
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - the primacy of consciousness
+  - the primacy of existence
 ---
 
 [[Existence Exists|Existence]] is the most fundamental [[Axioms as Irreducible Primaries|axiom]] in all of philosophy. Accordingly any error to do with this axiom is deadly to a philosophy: by poisoning the root you poison also every derivative from that root. The most deadly and popular among such errors is the fallacy of the primacy of consciousness---the view that consciousness--mere thoughts--have metaphysical primacy over existence; that if you merely *think* something to be the case then it *is* the case.

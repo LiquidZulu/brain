@@ -1,7 +1,12 @@
 ---
-tags: metaphysics, epistemology, philosophy
-author: LiquidZulu
-aliases: primacy of the personal consciousness, Man is the measure of all things
+tags:
+  - metaphysics
+  - epistemology
+  - philosophy
+author: "[[LiquidZulu]]"
+aliases:
+  - primacy of the personal consciousness
+  - Man is the measure of all things
 ---
 
 This is the individualistic version of the [[Primacy of the Social Consciousness|primacy of the social consciousness]], formulated prominently by [[Protagoras]] as: "Man" being "the measure of all things." On this view, each man inhabits his own universe created by his own mind---there is only private reality, not reality for all.

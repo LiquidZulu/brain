@@ -1,7 +1,12 @@
 ---
-tags: metaphysics, epistemology, philosophy
-authors: LiquidZulu
-aliases: "all action is action of entities"
+tags:
+  - metaphysics
+  - epistemology
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - all action is action of entities
 ---
 
 Various philosophers have attempted to identify and list so-called "categories" of being, such as qualities ("red" or "hard"), quantities ("five inches" or "six pounds"), relationships ("to the right of" or "father of"), actions ("walking" or "digesting"), etc.[^1] The mistake these philosophers make in this task is to assert that some selection of these categories has metaphysical primacy (see also: [[The Primary-Secondary Quality Distinction]]). The reason this view is in error is because none of these "categories" has any independent existence; they all merely represent aspects of [[Entity|entities]]:

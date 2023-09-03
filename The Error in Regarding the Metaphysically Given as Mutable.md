@@ -1,7 +1,12 @@
 ---
-tags: epistemology, metaphysics, philosophy
-authors: LiquidZulu
-aliases: rewriting reality
+tags:
+  - epistemology
+  - metaphysics
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - rewriting reality
 ---
 
 The error in regarding the [[Metaphysically Given|metaphysically given]] doesn't merely amount to an [[Evasion|evasion]] of reality (as is the case with [[The Error in Regarding the Man-Made as Immutable|regarding the man-made as immutable]]), but rather to declaring an all-out war on reality.

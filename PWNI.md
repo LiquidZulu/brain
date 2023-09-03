@@ -1,8 +1,13 @@
 ---
-authors: Ayn Rand
+authors:
+  - "[[Ayn Rand]]"
 title: "Philosophy: Who Needs It"
-tags: book, non-fiction, philosophy
-aliases: Philosophy Who Needs It
+tags:
+  - book
+  - non-fiction
+  - philosophy
+aliases:
+  - Philosophy Who Needs It
 ---
 
 >In *Philosophy: Who Needs It*, a collection of essays written by [[Ayn Rand|Rand]] in the years following *[[AS|Atlas Shrugged]]*, she argues that [[Philosophy|philosophy]] is not a pastime for brooding teenagers or ivory tower intellectuals. It’s a subject that deals with some of the most important issues in human life. [[Metaphysics|What kind of world do we live in?]] [[Epistemology|How do we separate knowledge from error?]] [[Ethics|What is good and what is evil?]]

@@ -1,7 +1,15 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
-aliases: The Law of Cause and Effect, the law of causality, cause, every entity has only one action available to it at any given time, causality
+tags:
+  - philosophy
+  - metaphysics
+authors:
+  - "[[LiquidZulu]]"
+aliases:
+  - The Law of Cause and Effect
+  - the law of causality
+  - cause
+  - every entity has only one action available to it at any given time
+  - causality
 ---
 
 The law of causality is a [[Corollary|corollary]] of [[The Law of Identity|the law of identity]], which states that every action has a cause (the cause being the nature of the [[Entity|entity]] which acts); and the same cause leads to the same effect (the same entity, under the same circumstances, will perform the same action). 

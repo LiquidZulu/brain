@@ -1,7 +1,10 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
-aliases: a physical explanation for consciousness does not negate its existence
+tags:
+  - philosophy
+  - metaphysics
+authors: "[[LiquidZulu]]"
+aliases:
+  - a physical explanation for consciousness does not negate its existence
 ---
 
 [[Consciousness as Naturalistic|Consciousness has a natural basis]], despite what [[Idealism|idealists]] and [[Materialism|materialists]] [[The Materialist-Idealist False Dichotomy|would have you believe]]. The materialist will often attempt to negate [[Consciousness|consciousness]] and [[Free Will|free will]] by pointing to a physical explanation of these phenomena:[^1] "you see, what you think is consciousness is actually an illusion. Really all that is happening is your brain is undergoing certain chemical processes." This *explanation* for consciousness does not negate the fact that under the given physical circumstances there *is* a consciousness, which is validated [[The Axiom of Consciousness|axiomatically]] and upon that axiom among others the materialists themselves rely for their physical investigations: the materialist is claiming to have [[Sense Perception|perceived]] certain facts of reality, this perception *is* him being *conscious* of said facts.

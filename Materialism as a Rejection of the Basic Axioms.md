@@ -1,6 +1,9 @@
 ---
-tags: philosophy, metaphysics
-authors: LiquidZulu
+tags:
+  - philosophy
+  - metaphysics
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 >[[Materialism|Materialists]]—men such as [[Democritus]], [[Hobbes]], [[Marx]], [[Skinner]]—champion nature but deny the reality or efficacy of [[Consciousness|consciousness]]. Consciousness, in this view, is either a myth or a useless byproduct of brain or other motions. In [[Objectivism|Objectivist]] terms, this amounts to the advocacy of [[Existence Exists|existence]] without consciousness. It is the denial of man's faculty of cognition and [[Innate Knowledge as a Violation of Causality|therefore]] of all [[Knowledge|knowledge]].

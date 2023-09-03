@@ -1,6 +1,9 @@
 ---
-tags: metaphysics, philosophy
-authors: LiquidZulu
+tags:
+  - metaphysics
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
 ---
 
 A common error related to [[The Primacy of Existence vs The Primacy of Consciousness|the primacy of consciousness]] is the assumption that the universe requires a cause. It is asked "what caused existence to exist?" and other such nonsense. Recall that [[The Law of Causality|the law of causality]] does not state that every entity has a cause, rather it states that every *action* has a cause and that [[The Categories of Being|all action is action of entities]]. 

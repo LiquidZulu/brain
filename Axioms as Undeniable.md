@@ -1,6 +1,7 @@
 ---
-tags: philosophy
-authors: LiquidZulu
+tags:
+  - philosophy
+authors: "[[LiquidZulu]]"
 ---
 
 [[The Fundamental Axioms of Metaphysics|The fundamental axioms of metaphysics]] stand as examples of undeniable propositions---that is propositions whose validity must be accepted in the course of any attack upon said validity. Leonard Peikoff illustrates this as follows:[^1]
