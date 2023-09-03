@@ -1,6 +1,7 @@
 ---
 tags:
   - politics
+  - book
 authors:
   - "[[Marx]]"
   - "[[Engels]]"

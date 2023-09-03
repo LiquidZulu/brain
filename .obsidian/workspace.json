@@ -35,12 +35,8 @@
             "id": "ea6e548f49357a4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LiquidZulu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -118,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LiquidZulu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LiquidZulu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LiquidZulu.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,8 +174,12 @@
   },
   "active": "ea6e548f49357a4b",
   "lastOpenFiles": [
-    "Validation.md",
+    "Aristotle.md",
+    "Wikipedians.md",
+    "Plato.md",
+    "The Communist Manifesto.md",
     "LiquidZulu.md",
+    "Validation.md",
     "Existence Exists.md",
     "Timaeus.md",
     "The Universe as Eternal.md",
@@ -204,10 +200,6 @@
     "The Impossibility of Gaining Omniscence.md",
     "The Heisenberg Uncertainty Principle as a Refutation of Causality.md",
     "The Fundamental Axioms of Metaphysics.md",
-    "The Error of Mechanistic Causality.md",
-    "The Error of Conflating the Man-Made with the Metaphysically Given.md",
-    "The Error in Regarding the Metaphysically Given as Mutable.md",
-    "The Error in Regarding the Man-Made as Immutable.md",
     "Untitled.canvas"
   ]
 }
