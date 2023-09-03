@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Floating Abstraction.md",
+                "file": "Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Floating Abstraction.md",
+                "file": "Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floating Abstraction.md",
+                "file": "Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Floating Abstraction.md"
+                "file": "Economics.md"
               }
             }
           }
@@ -182,6 +182,9 @@
   },
   "active": "ea6e548f49357a4b",
   "lastOpenFiles": [
+    "Human Action.md",
+    "Economics.md",
+    "Floating Abstraction.md",
     "God as the Designer.md",
     "ITOE.md",
     "Magnum Opus.md",
@@ -205,9 +208,6 @@
     "The Primacy of Existence as an Objectivist Innovation.md",
     "The Pre-Requisites of Epistemology.md",
     "The Mind-Body Conflict.md",
-    "The Metaphysically Given as Absolute.md",
-    "The Metaphysical Status of Sensory Qualities.md",
-    "The Metaphysical Sense of Objectivity.md",
     "Untitled.canvas"
   ]
 }

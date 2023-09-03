@@ -1,7 +1,9 @@
 ---
 tags:
   - praxeology
-authors: "[[LiquidZulu]]"
+  - economics
+authors:
+  - "[[LiquidZulu]]"
 aliases:
   - economics
 ---
