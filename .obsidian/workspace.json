@@ -35,12 +35,8 @@
             "id": "ea6e548f49357a4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -73,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "socratic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,6 +175,7 @@
   },
   "active": "ea6e548f49357a4b",
   "lastOpenFiles": [
+    "Democritus.md",
     "Human Action.md",
     "Economics.md",
     "Floating Abstraction.md",
@@ -207,7 +201,6 @@
     "The Primacy of Existence vs The Primacy of Consciousness.md",
     "The Primacy of Existence as an Objectivist Innovation.md",
     "The Pre-Requisites of Epistemology.md",
-    "The Mind-Body Conflict.md",
     "Untitled.canvas"
   ]
 }
