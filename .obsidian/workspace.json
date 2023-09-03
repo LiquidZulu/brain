@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Validation.md",
+                "file": "LiquidZulu.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validation.md",
+                "file": "LiquidZulu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Validation.md",
+                "file": "LiquidZulu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Validation.md"
+                "file": "LiquidZulu.md"
               }
             }
           }
@@ -182,8 +182,9 @@
   },
   "active": "ea6e548f49357a4b",
   "lastOpenFiles": [
-    "Existence Exists.md",
     "Validation.md",
+    "LiquidZulu.md",
+    "Existence Exists.md",
     "Timaeus.md",
     "The Universe as Eternal.md",
     "The Timaeus on the Imperfection of Reality.md",
@@ -207,7 +208,6 @@
     "The Error of Conflating the Man-Made with the Metaphysically Given.md",
     "The Error in Regarding the Metaphysically Given as Mutable.md",
     "The Error in Regarding the Man-Made as Immutable.md",
-    "The Epistemic Sense of Objectivity.md",
     "Untitled.canvas"
   ]
 }
