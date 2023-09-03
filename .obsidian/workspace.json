@@ -35,8 +35,12 @@
             "id": "ea6e548f49357a4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Magnum Opus.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Magnum Opus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Magnum Opus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Magnum Opus.md"
+              }
             }
           }
         ]
@@ -174,6 +182,7 @@
   },
   "active": "ea6e548f49357a4b",
   "lastOpenFiles": [
+    "Magnum Opus.md",
     "Aristotle.md",
     "Wikipedians.md",
     "Plato.md",
@@ -199,7 +208,6 @@
     "The Law of Causality.md",
     "The Impossibility of Gaining Omniscence.md",
     "The Heisenberg Uncertainty Principle as a Refutation of Causality.md",
-    "The Fundamental Axioms of Metaphysics.md",
     "Untitled.canvas"
   ]
 }
