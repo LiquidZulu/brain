@@ -3,7 +3,7 @@ tags:
   - metaphysics
   - epistemology
   - philosophy
-author: "[[LiquidZulu]]"
+authors: "[[LiquidZulu]]"
 aliases:
   - form of the primacy of consciousness
 ---
