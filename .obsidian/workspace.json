@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5c7dc3d4d6da450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Pre-Requisites of Epistemology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db201e4efb124dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innate Knowledge as a Violation of Causality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ea6e548f49357a4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Metaphysically Given as Absolute.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "socratic",
+                "query": "necessary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Metaphysically Given as Absolute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Metaphysically Given as Absolute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Metaphysically Given as Absolute.md"
+              }
             }
           }
         ]

@@ -7,6 +7,9 @@ authors:
 aliases:
   - the necessary/contingent dichotomy
 ---
+1. [[The Categories of Being|All action is action of entities]]
+2. [[The Law of Causality|every entity has only one action available to it at any given time]]
+3. therefore the [[Metaphysically Given|metaphysically given]] is absolute.
 
 Because [[Existence Exists|existence exists]] there are no alternatives possible as far as [[Metaphysics|metaphysics]] is concerned---the [[Metaphysically Given|metaphysically given]] is immutable, *absolute*.
 
