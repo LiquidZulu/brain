@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Senses as Distorted Implies Non-Consciousness.md",
+                "file": "The Senses Do Not Distort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32d44338c326da36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Illusions are not Perceptual Errors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Senses as Distorted Implies Non-Consciousness.md",
+                "file": "Illusions are not Perceptual Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Senses as Distorted Implies Non-Consciousness.md",
+                "file": "Illusions are not Perceptual Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Senses as Distorted Implies Non-Consciousness.md"
+                "file": "Illusions are not Perceptual Errors.md"
               }
             }
           }
@@ -170,9 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3136d36b3468860",
+  "active": "32d44338c326da36",
   "lastOpenFiles": [
     "The Senses Do Not Distort.md",
+    "Illusions are not Perceptual Errors.md",
     "The Senses as Distorted Implies Non-Consciousness.md",
     "The Axiom of Consciousness.md",
     "The Validation of Sense Perception.md",
@@ -197,7 +210,6 @@
     "Economics.md",
     "Floating Abstraction.md",
     "God as the Designer.md",
-    "ITOE.md",
     "Untitled.canvas"
   ]
 }
