@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b98f5085e6816b46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Objectivist Theory of Concepts.md",
+                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Objectivist Theory of Concepts.md",
+                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Objectivist Theory of Concepts.md"
+                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md"
               }
             }
           }
@@ -170,10 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e380b6965af2bc95",
+  "active": "b98f5085e6816b46",
   "lastOpenFiles": [
-    "Innate Ideas.md",
+    "Existence Exists.md",
+    "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
     "The Objectivist Theory of Concepts.md",
+    "Innate Ideas.md",
     "The Metaphysically Given as Absolute.md",
     "Innate Knowledge as a Violation of Causality.md",
     "370 BC.md",
@@ -195,9 +209,7 @@
     "The Communist Manifesto.md",
     "LiquidZulu.md",
     "Validation.md",
-    "Existence Exists.md",
     "Timaeus.md",
-    "The Universe as Eternal.md",
     "Untitled.canvas"
   ]
 }
