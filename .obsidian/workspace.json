@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+                "file": "All Knowledge is Either Perceptual or Conceptual.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+                "file": "All Knowledge is Either Perceptual or Conceptual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+                "file": "All Knowledge is Either Perceptual or Conceptual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Invalidity of the Senses Implies The Invalidity of Knowledge.md"
+                "file": "All Knowledge is Either Perceptual or Conceptual.md"
               }
             }
           }
@@ -184,8 +184,9 @@
   },
   "active": "b98f5085e6816b46",
   "lastOpenFiles": [
-    "Existence Exists.md",
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+    "All Knowledge is Either Perceptual or Conceptual.md",
+    "Existence Exists.md",
     "The Objectivist Theory of Concepts.md",
     "Innate Ideas.md",
     "The Metaphysically Given as Absolute.md",
@@ -209,7 +210,6 @@
     "The Communist Manifesto.md",
     "LiquidZulu.md",
     "Validation.md",
-    "Timaeus.md",
     "Untitled.canvas"
   ]
 }
