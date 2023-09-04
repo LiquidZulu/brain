@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Metaphysically Given as Absolute.md",
+                "file": "Innate Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e380b6965af2bc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Objectivist Theory of Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "necessary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Metaphysically Given as Absolute.md",
+                "file": "The Objectivist Theory of Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Metaphysically Given as Absolute.md",
+                "file": "The Objectivist Theory of Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Metaphysically Given as Absolute.md"
+                "file": "The Objectivist Theory of Concepts.md"
               }
             }
           }
@@ -156,9 +170,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea6e548f49357a4b",
+  "active": "e380b6965af2bc95",
   "lastOpenFiles": [
     "Innate Ideas.md",
+    "The Objectivist Theory of Concepts.md",
+    "The Metaphysically Given as Absolute.md",
     "Innate Knowledge as a Violation of Causality.md",
     "370 BC.md",
     "460 BC.md",
@@ -182,8 +198,6 @@
     "Existence Exists.md",
     "Timaeus.md",
     "The Universe as Eternal.md",
-    "The Timaeus on the Imperfection of Reality.md",
-    "The Stolen Concept Fallacy.md",
     "Untitled.canvas"
   ]
 }
