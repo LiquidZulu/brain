@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LiquidZulu.md",
+                "file": "Austrian Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LiquidZulu.md",
+                "file": "Austrian Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LiquidZulu.md",
+                "file": "Austrian Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LiquidZulu.md"
+                "file": "Austrian Economics.md"
               }
             }
           }
@@ -184,6 +184,8 @@
   },
   "active": "b98f5085e6816b46",
   "lastOpenFiles": [
+    "LiquidZulu.md",
+    "Austrian Economics.md",
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
     "All Knowledge is Either Perceptual or Conceptual.md",
     "The Objectivist Theory of Concepts.md",
@@ -208,8 +210,6 @@
     "Wikipedians.md",
     "Plato.md",
     "The Communist Manifesto.md",
-    "LiquidZulu.md",
-    "Validation.md",
     "Untitled.canvas"
   ]
 }
