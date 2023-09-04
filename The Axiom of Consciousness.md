@@ -5,6 +5,8 @@ tags:
   - axiom
 authors:
   - "[[LiquidZulu]]"
+aliases:
+  - man is conscious of reality
 ---
 
 The act of grasping the first [[The Fundamental Axioms of Metaphysics|axiom]] of philosophy, that [[Existence Exists|existence exists]], implies the second: that you exist possessing *[[Consciousness|consciousness]]*.[^1]

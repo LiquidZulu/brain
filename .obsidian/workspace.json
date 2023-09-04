@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3136d36b3468860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Senses as Distorted Implies Non-Consciousness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Validation of Sense Perception.md",
+                "file": "The Senses as Distorted Implies Non-Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Validation of Sense Perception.md",
+                "file": "The Senses as Distorted Implies Non-Consciousness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Validation of Sense Perception.md"
+                "file": "The Senses as Distorted Implies Non-Consciousness.md"
               }
             }
           }
@@ -157,12 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b98f5085e6816b46",
+  "active": "a3136d36b3468860",
   "lastOpenFiles": [
-    "OPAR.md",
-    "Untitled.md",
-    "1976.md",
+    "The Senses Do Not Distort.md",
+    "The Senses as Distorted Implies Non-Consciousness.md",
+    "The Axiom of Consciousness.md",
     "The Validation of Sense Perception.md",
+    "OPAR.md",
+    "1976.md",
     "All Knowledge is Either Perceptual or Conceptual.md",
     "Corollary.md",
     "Validation.md",
@@ -183,8 +198,6 @@
     "Floating Abstraction.md",
     "God as the Designer.md",
     "ITOE.md",
-    "Magnum Opus.md",
-    "Primacy of the Supernatural Consciousness.md",
     "Untitled.canvas"
   ]
 }
