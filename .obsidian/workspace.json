@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea6e548f49357a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innate Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e380b6965af2bc95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Objectivist Theory of Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b98f5085e6816b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Austrian Economics.md",
+                "file": "The Validation of Sense Perception.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Austrian Economics.md",
+                "file": "The Validation of Sense Perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Austrian Economics.md",
+                "file": "The Validation of Sense Perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Austrian Economics.md"
+                "file": "The Validation of Sense Perception.md"
               }
             }
           }
@@ -184,13 +159,20 @@
   },
   "active": "b98f5085e6816b46",
   "lastOpenFiles": [
-    "LiquidZulu.md",
-    "Austrian Economics.md",
-    "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+    "OPAR.md",
+    "Untitled.md",
+    "1976.md",
+    "The Validation of Sense Perception.md",
     "All Knowledge is Either Perceptual or Conceptual.md",
-    "The Objectivist Theory of Concepts.md",
-    "Existence Exists.md",
+    "Corollary.md",
+    "Validation.md",
+    "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+    "Man Can Validly Know Reality.md",
     "Innate Ideas.md",
+    "The Objectivist Theory of Concepts.md",
+    "Austrian Economics.md",
+    "LiquidZulu.md",
+    "Existence Exists.md",
     "The Metaphysically Given as Absolute.md",
     "Innate Knowledge as a Violation of Causality.md",
     "370 BC.md",
@@ -203,13 +185,6 @@
     "ITOE.md",
     "Magnum Opus.md",
     "Primacy of the Supernatural Consciousness.md",
-    "Primacy of the Social Consciousness.md",
-    "Forms of the Primacy of Consciousness.md",
-    "Primacy of the Personal Consciousness.md",
-    "Aristotle.md",
-    "Wikipedians.md",
-    "Plato.md",
-    "The Communist Manifesto.md",
     "Untitled.canvas"
   ]
 }
