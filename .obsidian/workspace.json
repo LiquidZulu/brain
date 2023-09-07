@@ -23,9 +23,17 @@
             "id": "cbccefb68e2c9b11",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "495c034fe94b5721",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "The Senses as Condensing Complex Information.md",
+                "file": "Hallucinations do not Negate the Validity of the Senses.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -131,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Senses as Condensing Complex Information.md",
+                "file": "Hallucinations do not Negate the Validity of the Senses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Senses as Condensing Complex Information.md",
+                "file": "Hallucinations do not Negate the Validity of the Senses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Senses as Condensing Complex Information.md"
+                "file": "Hallucinations do not Negate the Validity of the Senses.md"
               }
             }
           }
@@ -193,10 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbccefb68e2c9b11",
+  "active": "495c034fe94b5721",
   "lastOpenFiles": [
-    "Materialism as a Rejection of the Basic Axioms.md",
+    "The Objectivist Theory of Concepts.md",
+    "Hallucinations do not Negate the Validity of the Senses.md",
     "The Senses as Condensing Complex Information.md",
+    "Materialism as a Rejection of the Basic Axioms.md",
     "Idealism.md",
     "The Metaphysically Given as Absolute.md",
     "All Knowledge is Either Perceptual or Conceptual.md",
@@ -215,12 +226,10 @@
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
     "Man Can Validly Know Reality.md",
     "Innate Ideas.md",
-    "The Objectivist Theory of Concepts.md",
     "Austrian Economics.md",
     "Existence Exists.md",
     "Innate Knowledge as a Violation of Causality.md",
     "370 BC.md",
-    "460 BC.md",
     "Untitled.canvas"
   ]
 }
