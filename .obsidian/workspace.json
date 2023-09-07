@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Validation of Sense Perception.md",
+                "file": "Materialism as a Rejection of the Basic Axioms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbccefb68e2c9b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Senses as Condensing Complex Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Senses Do Not Distort.md",
+                "file": "322 BC.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +47,16 @@
             "id": "32d44338c326da36",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LiquidZulu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "different",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -116,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Senses as Condensing Complex Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Senses as Condensing Complex Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Senses as Condensing Complex Information.md"
+              }
             }
           }
         ]
@@ -174,16 +193,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32d44338c326da36",
+  "active": "cbccefb68e2c9b11",
   "lastOpenFiles": [
-    "Illusions are not Perceptual Errors.md",
+    "Materialism as a Rejection of the Basic Axioms.md",
+    "The Senses as Condensing Complex Information.md",
+    "Idealism.md",
+    "The Metaphysically Given as Absolute.md",
+    "All Knowledge is Either Perceptual or Conceptual.md",
+    "Magnum Opus.md",
+    "The Validation of Sense Perception.md",
+    "LiquidZulu.md",
+    "322 BC.md",
     "The Senses Do Not Distort.md",
+    "Illusions are not Perceptual Errors.md",
     "The Senses as Distorted Implies Non-Consciousness.md",
     "The Axiom of Consciousness.md",
-    "The Validation of Sense Perception.md",
     "OPAR.md",
     "1976.md",
-    "All Knowledge is Either Perceptual or Conceptual.md",
     "Corollary.md",
     "Validation.md",
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
@@ -191,17 +217,10 @@
     "Innate Ideas.md",
     "The Objectivist Theory of Concepts.md",
     "Austrian Economics.md",
-    "LiquidZulu.md",
     "Existence Exists.md",
-    "The Metaphysically Given as Absolute.md",
     "Innate Knowledge as a Violation of Causality.md",
     "370 BC.md",
     "460 BC.md",
-    "Democritus.md",
-    "Human Action.md",
-    "Economics.md",
-    "Floating Abstraction.md",
-    "God as the Designer.md",
     "Untitled.canvas"
   ]
 }
