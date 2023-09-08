@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hallucinations do not Negate the Validity of the Senses.md",
+                "file": "Examples of Entities.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "different",
+                "query": "fire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hallucinations do not Negate the Validity of the Senses.md",
+                "file": "Examples of Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hallucinations do not Negate the Validity of the Senses.md",
+                "file": "Examples of Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hallucinations do not Negate the Validity of the Senses.md"
+                "file": "Examples of Entities.md"
               }
             }
           }
@@ -204,8 +203,8 @@
   },
   "active": "495c034fe94b5721",
   "lastOpenFiles": [
-    "The Objectivist Theory of Concepts.md",
     "Hallucinations do not Negate the Validity of the Senses.md",
+    "The Objectivist Theory of Concepts.md",
     "The Senses as Condensing Complex Information.md",
     "Materialism as a Rejection of the Basic Axioms.md",
     "Idealism.md",
