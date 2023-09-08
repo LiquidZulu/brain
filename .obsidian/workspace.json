@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examples of Entities.md",
+                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fire",
+                "query": "form of perception",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples of Entities.md",
+                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examples of Entities.md",
+                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examples of Entities.md"
+                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md"
               }
             }
           }
@@ -201,11 +202,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "495c034fe94b5721",
+  "active": "1b6576bf15785e54",
   "lastOpenFiles": [
+    "The Senses as Condensing Complex Information.md",
+    "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+    "Illusions are not Perceptual Errors.md",
+    "Examples of Entities.md",
     "Hallucinations do not Negate the Validity of the Senses.md",
     "The Objectivist Theory of Concepts.md",
-    "The Senses as Condensing Complex Information.md",
     "Materialism as a Rejection of the Basic Axioms.md",
     "Idealism.md",
     "The Metaphysically Given as Absolute.md",
@@ -215,7 +219,6 @@
     "LiquidZulu.md",
     "322 BC.md",
     "The Senses Do Not Distort.md",
-    "Illusions are not Perceptual Errors.md",
     "The Senses as Distorted Implies Non-Consciousness.md",
     "The Axiom of Consciousness.md",
     "OPAR.md",
@@ -227,8 +230,6 @@
     "Innate Ideas.md",
     "Austrian Economics.md",
     "Existence Exists.md",
-    "Innate Knowledge as a Violation of Causality.md",
-    "370 BC.md",
     "Untitled.canvas"
   ]
 }
