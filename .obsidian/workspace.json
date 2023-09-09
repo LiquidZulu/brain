@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+                "file": "Timaeus.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "form of perception",
+                "query": "timaeus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+                "file": "Timaeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+                "file": "Timaeus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md"
+                "file": "Timaeus.md"
               }
             }
           }
@@ -202,10 +201,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b6576bf15785e54",
+  "active": "495c034fe94b5721",
   "lastOpenFiles": [
-    "The Senses as Condensing Complex Information.md",
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+    "The Senses as Condensing Complex Information.md",
     "Illusions are not Perceptual Errors.md",
     "Examples of Entities.md",
     "Hallucinations do not Negate the Validity of the Senses.md",
