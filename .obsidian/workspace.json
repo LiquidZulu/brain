@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b98f5085e6816b46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materialism as a Rejection of the Basic Axioms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbccefb68e2c9b11",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "495c034fe94b5721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timaeus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3136d36b3468860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "322 BC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32d44338c326da36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LiquidZulu.md",
+                "file": "The Primacy of Existence vs The Primacy of Consciousness.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timaeus",
+                "query": "primacy of existence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -139,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timaeus.md",
+                "file": "The Primacy of Existence vs The Primacy of Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timaeus.md",
+                "file": "The Primacy of Existence vs The Primacy of Consciousness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timaeus.md"
+                "file": "The Primacy of Existence vs The Primacy of Consciousness.md"
               }
             }
           }
@@ -203,6 +159,10 @@
   },
   "active": "495c034fe94b5721",
   "lastOpenFiles": [
+    "Forms of the Primacy of Consciousness.md",
+    "Idealism.md",
+    "The Timaeus on the Imperfection of Reality.md",
+    "Timaeus.md",
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
     "The Senses as Condensing Complex Information.md",
     "Illusions are not Perceptual Errors.md",
@@ -210,7 +170,6 @@
     "Hallucinations do not Negate the Validity of the Senses.md",
     "The Objectivist Theory of Concepts.md",
     "Materialism as a Rejection of the Basic Axioms.md",
-    "Idealism.md",
     "The Metaphysically Given as Absolute.md",
     "All Knowledge is Either Perceptual or Conceptual.md",
     "Magnum Opus.md",
@@ -226,9 +185,6 @@
     "Validation.md",
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
     "Man Can Validly Know Reality.md",
-    "Innate Ideas.md",
-    "Austrian Economics.md",
-    "Existence Exists.md",
     "Untitled.canvas"
   ]
 }

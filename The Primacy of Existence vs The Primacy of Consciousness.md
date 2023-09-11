@@ -18,13 +18,12 @@ First and foremost, the primacy of consciousness is an example of [[The Stolen C
 >
 >The primacy-of-consciousness viewpoint ascribes precisely the latter power to consciousness. A thing is or does what consciousness ordains, it says; A does not have to be A if consciousness does not wish it to be so. This viewpoint represents the rejection of all the basic axioms; it is an attempt to have existence and eat it, too. To have it, because without existence there can be no consciousness. To eat it, because the theory wants existence to be malleable to someone's mental contents; i.e., it wants existence to shrug off the restrictions of identity in order to obey someone's desires; i.e., it wants existence to exist as nothing in particular. But existence is identity.
 >
->The above is to be taken not as a proof of the primacy of existence, \[...] Proof presupposes the principle that facts are not "malleable." If they were, there would be no need to prove anything and no independent datum on which to base any proof.[^1]
+>The above is to be taken not as a proof of the primacy of existence, \[...] Proof presupposes the principle that facts are not "malleable." If they were, there would be no need to prove anything and no independent datum on which to base any proof.
 > 
 >\[...]
 > 
->If existence exists, then it has metaphysical primacy. It is not a derivative or "manifestation" or "appearance" of some true reality at its root, such as God or society or one's urges. It is reality. As such, its elements are uncreated and eternal, and its laws, immutable.[^2]
+>If existence exists, then it has metaphysical primacy. It is not a derivative or "manifestation" or "appearance" of some true reality at its root, such as God or society or one's urges. It is reality. As such, its elements are uncreated and eternal, and its laws, immutable.[^1]
 
 [[The Primacy of Existence as an Objectivist Innovation|The primacy of existence is fundamentally an Objectivist innovation]].
 
-[^1]: [[OPAR]], p. 19
-[^2]: [[OPAR]], p. 23
+[^1]: [[OPAR]], p. 19-23
