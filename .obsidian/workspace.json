@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wikipedians.md",
+                "file": "God as Omnipotent.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wikipedians",
+                "query": "God as omnipoten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wikipedians.md",
+                "file": "God as Omnipotent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wikipedians.md",
+                "file": "God as Omnipotent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wikipedians.md"
+                "file": "God as Omnipotent.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "495c034fe94b5721",
   "lastOpenFiles": [
+    "Omnipotence.md",
+    "Consciousness as Naturalistic.md",
+    "Wikipedians.md",
     "The Primacy of Existence vs The Primacy of Consciousness.md",
     "Forms of the Primacy of Consciousness.md",
     "Idealism.md",
@@ -181,9 +184,6 @@
     "The Axiom of Consciousness.md",
     "OPAR.md",
     "1976.md",
-    "Corollary.md",
-    "Validation.md",
-    "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
     "Untitled.canvas"
   ]
 }
