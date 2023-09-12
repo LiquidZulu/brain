@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Primacy of Existence vs The Primacy of Consciousness.md",
+                "file": "Wikipedians.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "primacy of existence",
+                "query": "wikipedians",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Primacy of Existence vs The Primacy of Consciousness.md",
+                "file": "Wikipedians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Primacy of Existence vs The Primacy of Consciousness.md",
+                "file": "Wikipedians.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Primacy of Existence vs The Primacy of Consciousness.md"
+                "file": "Wikipedians.md"
               }
             }
           }
@@ -159,6 +158,7 @@
   },
   "active": "495c034fe94b5721",
   "lastOpenFiles": [
+    "The Primacy of Existence vs The Primacy of Consciousness.md",
     "Forms of the Primacy of Consciousness.md",
     "Idealism.md",
     "The Timaeus on the Imperfection of Reality.md",
@@ -184,7 +184,6 @@
     "Corollary.md",
     "Validation.md",
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
-    "Man Can Validly Know Reality.md",
     "Untitled.canvas"
   ]
 }
