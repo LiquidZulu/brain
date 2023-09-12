@@ -26,4 +26,4 @@ First and foremost, the primacy of consciousness is an example of [[The Stolen C
 
 [[The Primacy of Existence as an Objectivist Innovation|The primacy of existence is fundamentally an Objectivist innovation]].
 
-[^1]: [[OPAR]], p. 19-23
+[^1]: [[OPAR]], pp. 19-23
