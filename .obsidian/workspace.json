@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Law of Identity.md",
+                "file": "Spiritual vs Material.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "A is A",
+                "query": "mind vs body",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Law of Identity.md",
+                "file": "Spiritual vs Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Law of Identity.md",
+                "file": "Spiritual vs Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Law of Identity.md"
+                "file": "Spiritual vs Material.md"
               }
             }
           }
@@ -143,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +157,16 @@
   },
   "active": "495c034fe94b5721",
   "lastOpenFiles": [
+    "The Materialist-Idealist False Dichotomy.md",
+    "Idealism.md",
+    "Idealism as a Rejection of the Basic Axioms.md",
+    "The Law of Identity.md",
     "Omnipotence.md",
     "The Primacy of Existence vs The Primacy of Consciousness.md",
     "God as Omnipotent.md",
     "Consciousness as Naturalistic.md",
     "Wikipedians.md",
     "Forms of the Primacy of Consciousness.md",
-    "Idealism.md",
     "The Timaeus on the Imperfection of Reality.md",
     "Timaeus.md",
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
@@ -182,9 +183,6 @@
     "LiquidZulu.md",
     "322 BC.md",
     "The Senses Do Not Distort.md",
-    "The Senses as Distorted Implies Non-Consciousness.md",
-    "The Axiom of Consciousness.md",
-    "OPAR.md",
     "Untitled.canvas"
   ]
 }

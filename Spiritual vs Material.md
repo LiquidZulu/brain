@@ -16,5 +16,5 @@ The dichotomy of "spiritual" vs "material" is the broadest form of various other
 
 >In due course, we will develop in detail the [[Objectivism|Objectivist]] position on the key aspects of the mind-body question. We will study the inner and the outer, value and fact, the moral and the practical, and several other such pairs, including reason and emotion, [[Concept|concepts]] and [[Percept|percepts]], pure science and technology, love and sex. In every such case, [[Ayn Rand]] holds, the conventional viewpoint is wrong; man does not have to make impossible choices between the "spiritual" side of life and the "material." The relationship between the two sides, she holds, is not clash or warfare, but integration, unity, harmony.[^2]
 
-[^1]: These are taken from [[OPAR]], p. 29-30
+[^1]: These are taken from [[OPAR]], pp. 29-30
 [^2]: [[OPAR]], p. 30
