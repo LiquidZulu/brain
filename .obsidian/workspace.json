@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Role of the Senses.md",
+                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Role of the Senses.md",
+                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Role of the Senses.md"
+                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md"
               }
             }
           },
@@ -190,13 +189,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9eb9b970c272d035",
+  "active": "495c034fe94b5721",
   "lastOpenFiles": [
-    "The Senses Do Not Distort.md",
+    "Phenomenal.md",
+    "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+    "The Role of the Senses.md",
+    "The Senses Do Not Distort.md",
     "The Axiom of Consciousness.md",
     "Vim Cheatsheet.md",
-    "The Role of the Senses.md",
     "God as a Miracle-Worker.md",
     "Spiritual vs Material.md",
     "The Materialist-Idealist False Dichotomy.md",
@@ -216,8 +217,6 @@
     "Examples of Entities.md",
     "Hallucinations do not Negate the Validity of the Senses.md",
     "The Objectivist Theory of Concepts.md",
-    "Materialism as a Rejection of the Basic Axioms.md",
-    "The Metaphysically Given as Absolute.md",
     "Untitled.canvas"
   ]
 }
