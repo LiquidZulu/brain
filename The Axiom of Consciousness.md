@@ -8,7 +8,6 @@ authors:
 aliases:
   - man is conscious of reality
 ---
-
 The act of grasping the first [[The Fundamental Axioms of Metaphysics|axiom]] of philosophy, that [[Existence Exists|existence exists]], implies the second: that you exist possessing *[[Consciousness|consciousness]]*.[^1]
 
 >[[Consciousness]] is not inherent in the fact of existence as such; a world without conscious organisms is possible. But consciousness *is* inherent in *your grasp* of existence. Inherent in saying "*There is something*—of which I am aware" is: "There is something—*of which I am aware*."[^2]
