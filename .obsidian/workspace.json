@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8e5fdb7d90504064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Impossibility of Unlimited Senses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9eb9b970c272d035",
             "type": "leaf",
             "state": {
@@ -41,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
+                "file": "The Impossibility of Unlimited Senses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
+                "file": "The Impossibility of Unlimited Senses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md"
+                "file": "The Impossibility of Unlimited Senses.md"
               }
             }
           },
@@ -189,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "495c034fe94b5721",
+  "active": "8e5fdb7d90504064",
   "lastOpenFiles": [
-    "Phenomenal.md",
     "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
+    "The Impossibility of Unlimited Senses.md",
+    "Phenomenal.md",
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
     "The Role of the Senses.md",
     "The Senses Do Not Distort.md",
@@ -216,7 +230,6 @@
     "Illusions are not Perceptual Errors.md",
     "Examples of Entities.md",
     "Hallucinations do not Negate the Validity of the Senses.md",
-    "The Objectivist Theory of Concepts.md",
     "Untitled.canvas"
   ]
 }
