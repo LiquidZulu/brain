@@ -1,0 +1,20 @@
+---
+tags:
+  - philosophy
+authors:
+  - "[[LiquidZulu]]"
+---
+>"May I name another vicious bromide you’ve never felt?"
+>
+>"Which one?"
+>
+>"You’ve never felt how small you were when looking at the ocean."
+>
+>He laughed. "Never. Nor looking at the planets. Nor at mountain peaks. Nor at the Grand Canyon. Why should I? When I look at the ocean, I feel the greatness of man, I think of man’s magnificent capacity that created this ship to conquer all that senseless space. When I look at mountain peaks, I think of tunnels and dynamite. When I look at the planets, I think of airplanes."[^1]
+
+The grand canyon argument goes something like this:
+>Humans are just intelligent monkies floating on a ball of dust in the middle of an infinite universe---we really aren't all that special, so don't get any highfalutin delusions of grandeur!
+
+It is so-named by [[Leonard Peikoff]] as it is often repeated upon seeing the Grand Canyon.
+
+[^1]: [[FH]], p. 391
