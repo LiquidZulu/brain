@@ -3,6 +3,9 @@ tags:
   - philosophy
 authors:
   - "[[LiquidZulu]]"
+aliases:
+  - bromide
+  - bromides
 ---
 >Those who know what makes you tick--you great, wonderful average, you who have not risen in fury when we called you the average, the little, the common, you who’ve liked and accepted those names. You’ll sit enthroned and enshrined, you, the little people, the absolute ruler to make all past rulers squirm with envy, the absolute, the unlimited, God and Prophet and King combined. Vox populi. The average, the common, the general. Do you know the proper antonym for Ego? Bromide, Peter. The rule of the bromide. But even the trite has to be originated by someone at some time. We’ll do the originating. Vox dei.[^1]
 

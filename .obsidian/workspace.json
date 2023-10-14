@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Grand Canyon Argument.md",
+                "file": "Common Bromides.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Grand Canyon Argument.md",
+                "file": "Common Bromides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Grand Canyon Argument.md",
+                "file": "Common Bromides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Grand Canyon Argument.md"
+                "file": "Common Bromides.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "c2d05b74980c9aa1",
   "lastOpenFiles": [
-    "Common Bromides.md",
     "The Grand Canyon Argument.md",
+    "Common Bromides.md",
     "Skyscrapers as the True Dimensions of Man.md",
     "The Role of the Senses.md",
     "Sensory Subjectivism.md",
