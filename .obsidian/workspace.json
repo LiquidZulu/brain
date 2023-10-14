@@ -4,52 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "71b2f8de61194da1",
+        "id": "86772eb6c83a8e74",
         "type": "tabs",
         "children": [
           {
-            "id": "495c034fe94b5721",
+            "id": "b2f6136e14a84165",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2d05b74980c9aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
+                "file": "The Grand Canyon Argument.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5fdb7d90504064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Impossibility of Unlimited Senses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eb9b970c272d035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Role of the Senses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a18db10d2efe62b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
               }
             }
           }
@@ -130,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Impossibility of Unlimited Senses.md",
+                "file": "The Grand Canyon Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Impossibility of Unlimited Senses.md",
+                "file": "The Grand Canyon Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Impossibility of Unlimited Senses.md"
+                "file": "The Grand Canyon Argument.md"
               }
             }
           },
@@ -202,13 +176,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e5fdb7d90504064",
+  "active": "c2d05b74980c9aa1",
   "lastOpenFiles": [
-    "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
+    "Common Bromides.md",
+    "The Grand Canyon Argument.md",
+    "Skyscrapers as the True Dimensions of Man.md",
+    "The Role of the Senses.md",
+    "Sensory Subjectivism.md",
+    "The Metaphysical Status of Sensory Qualities.md",
     "The Impossibility of Unlimited Senses.md",
+    "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
     "Phenomenal.md",
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
-    "The Role of the Senses.md",
     "The Senses Do Not Distort.md",
     "The Axiom of Consciousness.md",
     "Vim Cheatsheet.md",
@@ -225,11 +204,6 @@
     "Wikipedians.md",
     "Forms of the Primacy of Consciousness.md",
     "The Timaeus on the Imperfection of Reality.md",
-    "Timaeus.md",
-    "The Senses as Condensing Complex Information.md",
-    "Illusions are not Perceptual Errors.md",
-    "Examples of Entities.md",
-    "Hallucinations do not Negate the Validity of the Senses.md",
     "Untitled.canvas"
   ]
 }
