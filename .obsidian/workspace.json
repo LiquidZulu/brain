@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities.md",
+                "file": "A Physical Description of Entities does not Negate Their Existence.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities.md",
+                "file": "A Physical Description of Entities does not Negate Their Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities.md",
+                "file": "A Physical Description of Entities does not Negate Their Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities.md"
+                "file": "A Physical Description of Entities does not Negate Their Existence.md"
               }
             }
           },
@@ -182,9 +182,11 @@
   },
   "active": "c26544103f92b4a0",
   "lastOpenFiles": [
-    "The Metaphysical Status of Sensory Qualities.md",
-    "A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities.md",
+    "Leonard Peikoff.md",
+    "A Physical Description of Entities does not Negate Their Existence.md",
     "A Physical Description of Entities is the Realm of Physics, not Philosophy.md",
+    "A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities.md",
+    "The Metaphysical Status of Sensory Qualities.md",
     "Common Bromides.md",
     "Companions in Guilt.md",
     "The Grand Canyon Argument.md",
@@ -206,8 +208,6 @@
     "The Law of Identity.md",
     "Omnipotence.md",
     "The Primacy of Existence vs The Primacy of Consciousness.md",
-    "God as Omnipotent.md",
-    "Consciousness as Naturalistic.md",
     "Untitled.canvas"
   ]
 }
