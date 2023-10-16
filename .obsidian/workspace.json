@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "The Metaphysical Status of Sensory Qualities.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2429d6205a8c3429",
+            "id": "612cd8648da19b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Attack on the Senses by Eddington's Two Tables.md",
+                "file": "Naive Realism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "Naive Realism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "Naive Realism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md"
+                "file": "Naive Realism.md"
               }
             }
           },
@@ -179,10 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3ce94004105ed99",
+  "active": "612cd8648da19b8c",
   "lastOpenFiles": [
-    "The Attack on the Senses by Eddington's Two Tables.md",
+    "The Metaphysical Status of Sensory Qualities.md",
+    "Naive Realism.md",
     "The Attack on the Senses from their Limitation.md",
+    "The Attack on the Senses by Eddington's Two Tables.md",
     "The Attack on the Senses by Being Effects.md",
     "The Law of Causality.md",
     "The Attack on the Senses.md",
@@ -191,7 +194,6 @@
     "The Axiom of Consciousness.md",
     "The Senses as Distorted Implies Non-Consciousness.md",
     "The Validation of Sense Perception.md",
-    "The Metaphysical Status of Sensory Qualities.md",
     "Common Bromides.md",
     "A Physical Description of Entities does not Negate Their Existence.md",
     "Leonard Peikoff.md",
@@ -206,7 +208,6 @@
     "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
     "Phenomenal.md",
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
-    "Vim Cheatsheet.md",
     "Untitled.canvas"
   ]
 }
