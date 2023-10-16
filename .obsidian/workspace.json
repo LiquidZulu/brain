@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2429d6205a8c3429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Attack on the Senses by Being Effects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "The Attack on the Senses by Being Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "The Attack on the Senses by Being Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md"
+                "file": "The Attack on the Senses by Being Effects.md"
               }
             }
           },
@@ -167,10 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3ce94004105ed99",
+  "active": "2429d6205a8c3429",
   "lastOpenFiles": [
-    "Omnipotence.md",
+    "The Law of Causality.md",
+    "The Attack on the Senses by Being Effects.md",
     "The Attack on the Senses from their Limitation.md",
+    "The Attack on the Senses.md",
+    "Omnipotence.md",
     "The Senses Do Not Distort.md",
     "The Axiom of Consciousness.md",
     "The Senses as Distorted Implies Non-Consciousness.md",
@@ -192,9 +208,6 @@
     "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
     "Vim Cheatsheet.md",
     "God as a Miracle-Worker.md",
-    "Spiritual vs Material.md",
-    "The Materialist-Idealist False Dichotomy.md",
-    "Idealism.md",
     "Untitled.canvas"
   ]
 }
