@@ -35,12 +35,16 @@
             "id": "e0d805bd6502c520",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Axiom of Consciousness.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "The Axiom of Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "The Axiom of Consciousness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md"
+                "file": "The Axiom of Consciousness.md"
               }
             }
           },
@@ -176,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Attack on the Senses from their Limitation.md"
+                "file": "The Axiom of Consciousness.md"
               }
             }
           }
@@ -198,10 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "612cd8648da19b8c",
+  "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "The Attack on the Senses by Eddington's Two Tables.md",
+    "Types of Mysticism.md",
+    "Companions in Guilt.md",
     "The Attack on the Senses from their Limitation.md",
+    "The Attack on the Senses by Eddington's Two Tables.md",
     "The Attack on the Senses by Being Effects.md",
     "The Objectivist Theory of Concepts.md",
     "The Metaphysical Status of Sensory Qualities.md",
@@ -218,14 +224,12 @@
     "Leonard Peikoff.md",
     "A Physical Description of Entities is the Realm of Physics, not Philosophy.md",
     "A Physical Description of Entities does not Negate The Metaphysical Status of Sensory Qualities.md",
-    "Companions in Guilt.md",
     "The Grand Canyon Argument.md",
     "Skyscrapers as the True Dimensions of Man.md",
     "The Role of the Senses.md",
     "Sensory Subjectivism.md",
     "The Impossibility of Unlimited Senses.md",
     "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
-    "Phenomenal.md",
     "Untitled.canvas"
   ]
 }
