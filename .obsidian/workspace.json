@@ -25,10 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naive Realism.md",
+                "file": "The Attack on the Senses from their Limitation.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e0d805bd6502c520",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naive Realism.md",
+                "file": "The Attack on the Senses from their Limitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naive Realism.md",
+                "file": "The Attack on the Senses from their Limitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naive Realism.md"
+                "file": "The Attack on the Senses from their Limitation.md"
               }
             }
           },
@@ -159,6 +167,16 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "b1fddeed54e4db23",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "The Attack on the Senses from their Limitation.md"
               }
             }
           }
@@ -182,11 +200,12 @@
   },
   "active": "612cd8648da19b8c",
   "lastOpenFiles": [
+    "The Attack on the Senses by Eddington's Two Tables.md",
+    "The Attack on the Senses from their Limitation.md",
+    "The Attack on the Senses by Being Effects.md",
+    "The Objectivist Theory of Concepts.md",
     "The Metaphysical Status of Sensory Qualities.md",
     "Naive Realism.md",
-    "The Attack on the Senses from their Limitation.md",
-    "The Attack on the Senses by Eddington's Two Tables.md",
-    "The Attack on the Senses by Being Effects.md",
     "The Law of Causality.md",
     "The Attack on the Senses.md",
     "Omnipotence.md",
@@ -207,7 +226,6 @@
     "The Impossibility of Unlimited Senses.md",
     "Different Forms of Sense Perception Lead to Different Capabilities in Deducing Laws.md",
     "Phenomenal.md",
-    "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
     "Untitled.canvas"
   ]
 }
