@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Attack on the Senses by Eddington's Two Tables.md",
+                "file": "The Attack on the Senses from their Limitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Attack on the Senses by Eddington's Two Tables.md",
+                "file": "The Attack on the Senses from their Limitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Attack on the Senses by Eddington's Two Tables.md"
+                "file": "The Attack on the Senses from their Limitation.md"
               }
             }
           },
@@ -180,10 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2429d6205a8c3429",
+  "active": "e3ce94004105ed99",
   "lastOpenFiles": [
-    "The Attack on the Senses from their Limitation.md",
     "The Attack on the Senses by Eddington's Two Tables.md",
+    "The Attack on the Senses from their Limitation.md",
     "The Attack on the Senses by Being Effects.md",
     "The Law of Causality.md",
     "The Attack on the Senses.md",
