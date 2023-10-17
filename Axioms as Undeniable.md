@@ -3,7 +3,6 @@ tags:
   - philosophy
 authors: "[[LiquidZulu]]"
 ---
-
 [[The Fundamental Axioms of Metaphysics|The fundamental axioms of metaphysics]] stand as examples of undeniable propositions---that is propositions whose validity must be accepted in the course of any attack upon said validity. Leonard Peikoff illustrates this as follows:[^1]
 
 >"People disagree about axioms," we often hear. "What is self-evident to one may not be self-evident to another. How then can a man know that his axioms are objectively true? How can he ever be sure he is right?" 
@@ -20,7 +19,7 @@ authors: "[[LiquidZulu]]"
 >
 >A. "That's one. You must accept the existence axiom even to utter the term 'disagreement.' But, to continue, I still claim that disagreement is unreal. How can people disagree, since they are unconscious beings who are unable to hold ideas at all?"
 >
->B. "Of course people hold ideas. They are conscious beings—you know that."
+>B. "Of course people hold ideas. They are conscious beings---you know that."
 >
 >A. "There's another axiom. But even so, why is disagreement about ideas a problem? Why should it suggest that one or more of the parties is mistaken? Perhaps all of the people who disagree about the very same point are equally, objectively right."
 >

@@ -16,7 +16,7 @@ That existence[^1] exists is the most fundamental [[Axioms as Irreducible Primar
 
 The very first thing a man might say about what there is is simply that it *is*: what is, is; existence exists. 
 
->This axiom must be the foundation of everything else. Before one can consider any other issue, before one can ask what things there are or what problems men face in learning about them, before one can discuss what one knows or how one knows it—first, there must *be* something, and one must grasp that there is. If not, there is nothing to consider or to know.[^3]
+>This axiom must be the foundation of everything else. Before one can consider any other issue, before one can ask what things there are or what problems men face in learning about them, before one can discuss what one knows or how one knows it---first, there must *be* something, and one must grasp that there is. If not, there is nothing to consider or to know.[^3]
 
 [^1]: Here "existence" is a collective noun, denoting the sum of existents.
 [^2]: "Existence, Consciousness, and Identity as the Basic Axioms," in [[OPAR]].
