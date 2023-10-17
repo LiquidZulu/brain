@@ -11,7 +11,7 @@ aliases:
   - every entity has only one action available to it at any given time
   - causality
 ---
-The law of causality is a [[Corollary|corollary]] of [[The Law of Identity|the law of identity]], which states that every action has a cause (the cause being the nature of the [[Entity|entity]] which acts); and the same cause leads to the same effect (the same entity, under the same circumstances, will perform the same action). 
+The law of causality is a [[Corollary|corollary]] of [[The Law of Identity|the law of identity]], which states that every [[Metaphysical Action|action]] has a cause (the cause being the nature of the [[Entity|entity]] which acts); and the same cause leads to the same effect (the same entity, under the same circumstances, will perform the same action). 
 
 The [[Axioms as Irreducible Primaries|validation]] of this law rests on two points: that [[The Categories of Being|all action is action of entities]] and the law of identity. Every entity has a specific, non-contradictory, limited nature; it has certain particular attributes and no others. Such an entity must act in accordance with its nature: the only alternative to this is for an entity to either act apart from or against its nature, both are impossible.
 
