@@ -8,6 +8,10 @@ aliases:
   - Naïve Realism
   - naïve realism
   - naive realism
+  - naïve realists
+  - naive realists
+  - naïve realist
+  - naive realist
 ---
 Naïve realism accepts [[The Metaphysical Status of Sensory Qualities|the mind-object qualia false-dichotomy]], holding that sense impressions are "in the object" in the sense that man's perception of a given [[Entity|entity]] is a primary---that your perception of [[The Attack on the Senses by Eddington's Two Tables|a table]] doesn't merely reflect certain aspects of its [[The Law of Identity|nature]], but that it is the be-all and end-all.
 
