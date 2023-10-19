@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Identity of Consciousness as the Root of Epistemology.md",
+                "file": "The Kantian Attack on Cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Identity of Consciousness as the Root of Epistemology.md",
+                "file": "The Kantian Attack on Cognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Identity of Consciousness as the Root of Epistemology.md"
+                "file": "The Kantian Attack on Cognition.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Identity of Consciousness as the Root of Epistemology.md"
+                "file": "The Kantian Attack on Cognition.md"
               }
             }
           }
@@ -190,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "078b8892632fcbc2",
+  "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "The Kantian Attack on Cognition.md",
     "The Identity of Consciousness as the Root of Epistemology.md",
+    "The Kantian Attack on Cognition.md",
     "The Attack on the Senses from their Limitation.md",
     "The Attack on the Senses by Being Effects.md",
     "The Senses Do Not Distort.md",
