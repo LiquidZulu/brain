@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "078b8892632fcbc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Identity of Consciousness as the Root of Epistemology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kantian Attack on Cognition.md",
+                "file": "The Identity of Consciousness as the Root of Epistemology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Kantian Attack on Cognition.md",
+                "file": "The Identity of Consciousness as the Root of Epistemology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Kantian Attack on Cognition.md"
+                "file": "The Identity of Consciousness as the Root of Epistemology.md"
               }
             }
           },
@@ -155,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Kantian Attack on Cognition.md"
+                "file": "The Identity of Consciousness as the Root of Epistemology.md"
               }
             }
           }
@@ -177,10 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0d805bd6502c520",
+  "active": "078b8892632fcbc2",
   "lastOpenFiles": [
-    "The Attack on the Senses from their Limitation.md",
     "The Kantian Attack on Cognition.md",
+    "The Identity of Consciousness as the Root of Epistemology.md",
+    "The Attack on the Senses from their Limitation.md",
     "The Attack on the Senses by Being Effects.md",
     "The Senses Do Not Distort.md",
     "Naive Realism.md",
@@ -204,7 +218,6 @@
     "The Timaeus on the Imperfection of Reality.md",
     "Timaeus.md",
     "Idealism.md",
-    "Mystics of Spirit.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
