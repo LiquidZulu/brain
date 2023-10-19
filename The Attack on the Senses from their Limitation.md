@@ -33,6 +33,7 @@ We are given a false-dichotomy: either you accept the premise that the ideal con
 The following is a list of some influential instances of the fallacy of attacking the senses from being limited:
 + [[The Attack on the Senses by Being Effects]]
 + [[The Attack on the Senses by Eddington's Two Tables]]
++ [[The Kantian Attack on Cognition]]
 
 >We can know the content of reality "pure," apart from man's perceptual form; but [[The Objectivist Theory of Concepts|we can do so only by abstracting away man's perceptual form]]---only by starting from sensory data, then performing a complex scientific process. To demand that the senses give us such "pure" content is to rewrite the function of the senses and the mind. It is to demand a blatant contradiction: a sensory image bearing no marks of its sensory character---or a *[[Percept|percept]]* of that which, by its nature, is the object only of a *[[Concept|concept]]*.[^2]
 
