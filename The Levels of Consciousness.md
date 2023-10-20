@@ -4,6 +4,11 @@ tags:
   - philosophy
 authors:
   - "[[LiquidZulu]]"
+aliases:
+  - level of consciousness
+  - level of awareness
+  - levels of consciousness
+  - levels of awareness
 ---
 There are three levels of [[Consciousness|consciousness]]:
 1. [[Sensation]];
