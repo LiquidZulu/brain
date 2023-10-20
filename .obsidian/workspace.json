@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensation.md",
+                "file": "The Levels of Consciousness.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensation.md",
+                "file": "The Levels of Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensation.md",
+                "file": "The Levels of Consciousness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensation.md"
+                "file": "The Levels of Consciousness.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sensation.md"
+                "file": "The Levels of Consciousness.md"
               }
             }
           }
@@ -191,8 +191,10 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "The Law of Causality.md",
+    "The Objectivist Theory of Concepts.md",
+    "The Levels of Consciousness.md",
     "Sensation.md",
+    "The Law of Causality.md",
     "The Kantian Attack on Cognition.md",
     "The Identity of Consciousness as the Root of Epistemology.md",
     "The Attack on the Senses from their Limitation.md",
@@ -215,8 +217,6 @@
     "The Characteristics of Entities.md",
     "The Categories of Being.md",
     "Metaphysically Given.md",
-    "The Timaeus on the Imperfection of Reality.md",
-    "Timaeus.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
