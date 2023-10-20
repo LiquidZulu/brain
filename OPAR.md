@@ -12,7 +12,6 @@ tags:
   - politics
   - aesthetics
 ---
-
 *Objectivism: The Philosophy of Ayn Rand*, Meridian ([[1991]])
 
 >Although [[Ayn Rand]] defined a full philosophic system, which she called [[Objectivism]] Objectivism, she never wrote a comprehensive, nonfiction presentation of it. Rand’s interest in philosophy stemmed originally from her desire to create heroic fictional characters for her novels, especially *[[AS|Atlas Shrugged]]*, whose final philosophic speech she called Objectivism’s “briefest summary.”

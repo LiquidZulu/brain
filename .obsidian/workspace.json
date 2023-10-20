@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Levels of Consciousness.md",
+                "file": "VOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Identity of Consciousness as the Root of Epistemology.md",
+                "file": "OPAR.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Levels of Consciousness.md",
+                "file": "VOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Levels of Consciousness.md",
+                "file": "VOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Levels of Consciousness.md"
+                "file": "VOS.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Levels of Consciousness.md"
+                "file": "VOS.md"
               }
             }
           }
@@ -191,12 +191,18 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "The Objectivist Theory of Concepts.md",
+    "OPAR.md",
+    "1991.md",
+    "VOS.md",
+    "1964.md",
+    "Percept.md",
+    "The Identity of Consciousness as the Root of Epistemology.md",
+    "Sense Perception.md",
     "The Levels of Consciousness.md",
+    "The Objectivist Theory of Concepts.md",
     "Sensation.md",
     "The Law of Causality.md",
     "The Kantian Attack on Cognition.md",
-    "The Identity of Consciousness as the Root of Epistemology.md",
     "The Attack on the Senses from their Limitation.md",
     "The Attack on the Senses by Being Effects.md",
     "The Senses Do Not Distort.md",
@@ -211,12 +217,6 @@
     "Miracles are a Metaphysical Impossibility.md",
     "The Metaphysically Given as Absolute.md",
     "The Error of Mechanistic Causality.md",
-    "The Heisenberg Uncertainty Principle as a Refutation of Causality.md",
-    "The Error in Regarding the Metaphysically Given as Mutable.md",
-    "The Metaphysical Status of Sensory Qualities.md",
-    "The Characteristics of Entities.md",
-    "The Categories of Being.md",
-    "Metaphysically Given.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
