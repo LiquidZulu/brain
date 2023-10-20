@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VOS.md",
+                "file": "Sense Perception.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VOS.md",
+                "file": "Sense Perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VOS.md",
+                "file": "Sense Perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VOS.md"
+                "file": "Sense Perception.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "VOS.md"
+                "file": "Sense Perception.md"
               }
             }
           }
@@ -191,11 +191,11 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
+    "Percept.md",
+    "VOS.md",
     "OPAR.md",
     "1991.md",
-    "VOS.md",
     "1964.md",
-    "Percept.md",
     "The Identity of Consciousness as the Root of Epistemology.md",
     "Sense Perception.md",
     "The Levels of Consciousness.md",
