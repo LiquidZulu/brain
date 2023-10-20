@@ -9,4 +9,7 @@ Sensation is the lowest [[The Levels of Consciousness|level]] of [[Consciousness
 
 Another important point, implicit in the above, is that a sensation lasts only as long as the sensory stimulus is maintained---your eye ball will stop sending colour signals the instant the light is no longer entering it. To do otherwise would mean to have an effect without a cause---which is a violation of [[The Law of Causality|the law of causality]].
 
+>The most primitive conscious organisms appear to possess only the capacity of sensation. The conscious life of such organisms is the experience of isolated, fleeting data---fleeting, because the organisms are bombarded by a flux of stimuli. These creatures confront a kaleidoscopic succession of new worlds, each swept away by the next as the stimuli involved fade or change. Since such consciousnesses do not retain their mental contents, they can hardly detect relationships among them. To such mentalities, the universe is, in [[William James]]'s apt description, a "blooming, buzzing confusion."[^2]
+
 [^1]: [[OPAR]], p. 52
+[^2]: [[OPAR]], p. 52
