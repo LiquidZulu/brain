@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Epistemic Primacy of Sense Perception.md",
+                "file": "Infinity as a Floating Abstraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8e6a246b4f6562b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Error of Conflating the Potential with the Actual.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Epistemic Primacy of Sense Perception.md",
+                "file": "The Error of Conflating the Potential with the Actual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Epistemic Primacy of Sense Perception.md",
+                "file": "The Error of Conflating the Potential with the Actual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Epistemic Primacy of Sense Perception.md"
+                "file": "The Error of Conflating the Potential with the Actual.md"
               }
             }
           },
@@ -167,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Epistemic Primacy of Sense Perception.md"
+                "file": "The Error of Conflating the Potential with the Actual.md"
               }
             }
           }
@@ -189,10 +202,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0d805bd6502c520",
+  "active": "d8e6a246b4f6562b",
   "lastOpenFiles": [
-    "Sense Perception.md",
+    "Infinity as a Floating Abstraction.md",
+    "The Error of Conflating the Potential with the Actual.md",
     "The Epistemic Primacy of Sense Perception.md",
+    "Sense Perception.md",
     "Percept.md",
     "VOS.md",
     "OPAR.md",
@@ -215,8 +230,6 @@
     "Omniscience.md",
     "Omnipotence.md",
     "The Universe as Eternal.md",
-    "Miracles are a Metaphysical Impossibility.md",
-    "The Metaphysically Given as Absolute.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
