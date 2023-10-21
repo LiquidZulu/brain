@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naive Realism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b77881d54612c7bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Attack on the Senses from their Limitation.md",
+                "file": "Mysticism as Invalid.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naive Realism.md",
+                "file": "Mysticism as Invalid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naive Realism.md",
+                "file": "Mysticism as Invalid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naive Realism.md"
+                "file": "Mysticism as Invalid.md"
               }
             }
           },
@@ -167,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Naive Realism.md"
+                "file": "Mysticism as Invalid.md"
               }
             }
           }
@@ -191,7 +179,12 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
+    "The Role of the Senses.md",
     "The Attack on the Senses from their Limitation.md",
+    "Mysticism as Invalid.md",
+    "Sensation.md",
+    "All Knowledge is Either Perceptual or Conceptual.md",
+    "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
     "Naive Realism.md",
     "Infinity as a Floating Abstraction.md",
     "The Error of Conflating the Potential with the Actual.md",
@@ -205,7 +198,6 @@
     "The Identity of Consciousness as the Root of Epistemology.md",
     "The Levels of Consciousness.md",
     "The Objectivist Theory of Concepts.md",
-    "Sensation.md",
     "The Law of Causality.md",
     "The Kantian Attack on Cognition.md",
     "The Attack on the Senses by Being Effects.md",
@@ -213,10 +205,6 @@
     "The Validation of Sense Perception.md",
     "Consciousness.md",
     "Entity.md",
-    "The Attack on the Senses by Eddington's Two Tables.md",
-    "Omniscience.md",
-    "Omnipotence.md",
-    "The Universe as Eternal.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
