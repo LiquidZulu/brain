@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mysticism as Invalid.md",
+                "file": "Consciousness.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysticism as Invalid.md",
+                "file": "Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mysticism as Invalid.md",
+                "file": "Consciousness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysticism as Invalid.md"
+                "file": "Consciousness.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mysticism as Invalid.md"
+                "file": "Consciousness.md"
               }
             }
           }
@@ -179,17 +179,19 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "The Role of the Senses.md",
+    "Sense Perception.md",
+    "Consciousness.md",
+    "Human Action.md",
     "The Attack on the Senses from their Limitation.md",
-    "Mysticism as Invalid.md",
-    "Sensation.md",
-    "All Knowledge is Either Perceptual or Conceptual.md",
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
+    "All Knowledge is Either Perceptual or Conceptual.md",
+    "Mysticism as Invalid.md",
+    "The Role of the Senses.md",
+    "Sensation.md",
     "Naive Realism.md",
     "Infinity as a Floating Abstraction.md",
     "The Error of Conflating the Potential with the Actual.md",
     "The Epistemic Primacy of Sense Perception.md",
-    "Sense Perception.md",
     "Percept.md",
     "VOS.md",
     "OPAR.md",
@@ -203,8 +205,6 @@
     "The Attack on the Senses by Being Effects.md",
     "The Senses Do Not Distort.md",
     "The Validation of Sense Perception.md",
-    "Consciousness.md",
-    "Entity.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
