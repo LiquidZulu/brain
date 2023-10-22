@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consciousness.md",
+                "file": "Examples of Entities.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consciousness.md",
+                "file": "Examples of Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consciousness.md",
+                "file": "Examples of Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consciousness.md"
+                "file": "Examples of Entities.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Consciousness.md"
+                "file": "Examples of Entities.md"
               }
             }
           }
@@ -179,8 +179,11 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "Sense Perception.md",
+    "A Baby-in-a-Womb as an Entity.md",
+    "Examples of Entities.md",
+    "Fire as a non-Entity.md",
     "Consciousness.md",
+    "Sense Perception.md",
     "Human Action.md",
     "The Attack on the Senses from their Limitation.md",
     "The Invalidity of the Senses Implies The Invalidity of Knowledge.md",
@@ -202,9 +205,6 @@
     "The Objectivist Theory of Concepts.md",
     "The Law of Causality.md",
     "The Kantian Attack on Cognition.md",
-    "The Attack on the Senses by Being Effects.md",
-    "The Senses Do Not Distort.md",
-    "The Validation of Sense Perception.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
