@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examples of Entities.md",
+                "file": "Consciousness as a non-Entity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a209b4b25e17894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Critical Examination of the Objectivist Metaphysic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a06aa88d2364d884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consciousness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82bc13797c1d9b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objectivism does not Hold that Consciousness is an Entity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a994ceb1635d7f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Characteristics of Entities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples of Entities.md",
+                "file": "Objectivism does not Hold that Consciousness is an Entity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examples of Entities.md",
+                "file": "Objectivism does not Hold that Consciousness is an Entity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examples of Entities.md"
+                "file": "Objectivism does not Hold that Consciousness is an Entity.md"
               }
             }
           },
@@ -155,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Examples of Entities.md"
+                "file": "Objectivism does not Hold that Consciousness is an Entity.md"
               }
             }
           }
@@ -177,12 +226,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0d805bd6502c520",
+  "active": "82bc13797c1d9b0a",
   "lastOpenFiles": [
-    "A Baby-in-a-Womb as an Entity.md",
-    "Examples of Entities.md",
-    "Fire as a non-Entity.md",
+    "Consciousness as a non-Entity.md",
+    "Objectivism does not Hold that Consciousness is an Entity.md",
     "Consciousness.md",
+    "A Critical Examination of the Objectivist Metaphysic.md",
+    "The Characteristics of Entities.md",
+    "Examples of Entities.md",
+    "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
+    "A Baby-in-a-Womb as an Entity.md",
+    "Fire as a non-Entity.md",
     "Sense Perception.md",
     "Human Action.md",
     "The Attack on the Senses from their Limitation.md",
@@ -200,11 +254,6 @@
     "OPAR.md",
     "1991.md",
     "1964.md",
-    "The Identity of Consciousness as the Root of Epistemology.md",
-    "The Levels of Consciousness.md",
-    "The Objectivist Theory of Concepts.md",
-    "The Law of Causality.md",
-    "The Kantian Attack on Cognition.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
