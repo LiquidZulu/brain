@@ -10,4 +10,5 @@ As explained, an [[Entity|entity]] is [[Axioms as Irreducible Primaries|axiomati
 + [[A Baby-in-a-Womb as an Entity]]
 ### Non-Entities
 + [[Fire as a non-Entity]]
++ [[Consciousness as a non-Entity]]
 + [[The Metaphysical Status of Sensory Qualities|Sensory Qualities as Relationships Between Entities]] 
