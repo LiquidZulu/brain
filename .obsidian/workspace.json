@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consciousness as a non-Entity.md",
+                "file": "The Error of Mechanistic Causality.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objectivism does not Hold that Consciousness is an Entity.md",
+                "file": "The Error of Mechanistic Causality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objectivism does not Hold that Consciousness is an Entity.md",
+                "file": "The Error of Mechanistic Causality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objectivism does not Hold that Consciousness is an Entity.md"
+                "file": "The Error of Mechanistic Causality.md"
               }
             }
           },
@@ -204,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objectivism does not Hold that Consciousness is an Entity.md"
+                "file": "The Error of Mechanistic Causality.md"
               }
             }
           }
@@ -226,15 +225,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82bc13797c1d9b0a",
+  "active": "e0d805bd6502c520",
   "lastOpenFiles": [
+    "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
+    "The Error of Mechanistic Causality.md",
+    "Is Free Will Magic?.md",
     "Consciousness as a non-Entity.md",
     "Objectivism does not Hold that Consciousness is an Entity.md",
     "Consciousness.md",
     "A Critical Examination of the Objectivist Metaphysic.md",
     "The Characteristics of Entities.md",
     "Examples of Entities.md",
-    "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
     "A Baby-in-a-Womb as an Entity.md",
     "Fire as a non-Entity.md",
     "Sense Perception.md",
@@ -252,8 +253,6 @@
     "Percept.md",
     "VOS.md",
     "OPAR.md",
-    "1991.md",
-    "1964.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
