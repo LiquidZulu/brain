@@ -12,7 +12,7 @@ aliases:
 A "bromide" is a bumper-sticker slogan used out of place as an [[Axioms as Irreducible Primaries|irreducible primary]]---being the start and end of the entire process of thought. The bromide is the building block of those borrowed philosophies accepted [[Second-Handers|second-hand]] by the unthinking masses. The following is a list of such phrases:
 + [[Political Realism|"be practical"]]
 + [[Altruism as Anti-Human|"you should compromise---your ego is too big"]] / "don't toot your own horn"
-+ [["Trust the Science"|"trust the science"]]
++ [[Scientism|"trust the science"]]
 + [[The Grand Canyon Argument]]
 
 [^1]: [[FH]], 567
