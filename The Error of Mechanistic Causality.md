@@ -12,4 +12,4 @@ aliases:
 >[[Objectivism]] accepts the universality of cause and effect. But it stresses that the principle of cause and effect by itself does not legislate that all cause-effect relations are [[Determinism|deterministic]] (such that one and only one outcome is possible from--and indeed necessitated by--a given set of antecedent circumstances). Nor does the principle of causality tell us which _specific_ actions an entity can take in a given context; it tells us only that an entity _must_ act in accordance with its nature; it cannot act in contradiction to it.[^2]
 
 [^1]: [[OPAR]], p. 16
-[^2]: [[Is Free Will Magic?]]
+[^2]: [[Is Free Will Magic]]
