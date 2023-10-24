@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bundled Philosophy.md",
+                "file": "The Grand Canyon Argument.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bundled Philosophy.md",
+                "file": "The Grand Canyon Argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bundled Philosophy.md",
+                "file": "The Grand Canyon Argument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bundled Philosophy.md"
+                "file": "The Grand Canyon Argument.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bundled Philosophy.md"
+                "file": "The Grand Canyon Argument.md"
               }
             }
           }
@@ -179,8 +179,10 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "Scientism.md",
+    "Common Bromides.md",
+    "Skyscrapers as the True Dimensions of Man.md",
     "Bundled Philosophy.md",
+    "Scientism.md",
     "Is Free Will Magic.md",
     "A Critical Examination of the Objectivist Metaphysic.md",
     "The Error of Mechanistic Causality.md",
@@ -203,8 +205,6 @@
     "Naive Realism.md",
     "Infinity as a Floating Abstraction.md",
     "The Error of Conflating the Potential with the Actual.md",
-    "The Epistemic Primacy of Sense Perception.md",
-    "Percept.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
