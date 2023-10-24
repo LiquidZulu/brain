@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Is Free Will Magic.md",
+                "file": "Bundled Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Is Free Will Magic.md",
+                "file": "Bundled Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Is Free Will Magic.md",
+                "file": "Bundled Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is Free Will Magic.md"
+                "file": "Bundled Philosophy.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Is Free Will Magic.md"
+                "file": "Bundled Philosophy.md"
               }
             }
           }
@@ -180,10 +180,11 @@
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
     "Scientism.md",
+    "Bundled Philosophy.md",
+    "Is Free Will Magic.md",
     "A Critical Examination of the Objectivist Metaphysic.md",
     "The Error of Mechanistic Causality.md",
     "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
-    "Is Free Will Magic.md",
     "Consciousness as a non-Entity.md",
     "Objectivism does not Hold that Consciousness is an Entity.md",
     "Consciousness.md",
@@ -204,7 +205,6 @@
     "The Error of Conflating the Potential with the Actual.md",
     "The Epistemic Primacy of Sense Perception.md",
     "Percept.md",
-    "VOS.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
