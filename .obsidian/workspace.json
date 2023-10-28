@@ -11,12 +11,8 @@
             "id": "e0d805bd6502c520",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Naive Anarchism as a Package Deal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -74,12 +70,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed5886bd805dc2a5",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naive Anarchism as a Package Deal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naive Anarchism as a Package Deal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Naive Anarchism as a Package Deal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Naive Anarchism as a Package Deal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,8 +168,9 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "Naive Realism.md",
     "Naive Anarchism as a Package Deal.md",
+    "Economics.md",
+    "Naive Realism.md",
     "Free Will.md",
     "The Categories of Being.md",
     "Arguments from Defining God into Existence.md",
@@ -204,7 +194,6 @@
     "Fire as a non-Entity.md",
     "Sense Perception.md",
     "Human Action.md",
-    "The Attack on the Senses from their Limitation.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]

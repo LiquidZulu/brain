@@ -78,7 +78,7 @@
       }
     },
     {
-      "query": "tag:#jurisprudence",
+      "query": "tag:#law",
       "color": {
         "a": 1,
         "rgb": 5431518
@@ -111,11 +111,11 @@
   "textFadeMultiplier": -2.6,
   "nodeSizeMultiplier": 1.73333333333333,
   "lineSizeMultiplier": 0.9421875,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.473958333333333,
   "repelStrength": 20,
   "linkStrength": 0.619791666666667,
   "linkDistance": 500,
-  "scale": 0.45050811767578125,
-  "close": true
+  "scale": 0.03955078125,
+  "close": false
 }
