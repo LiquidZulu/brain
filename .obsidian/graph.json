@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#book",
@@ -19,6 +19,48 @@
       "color": {
         "a": 1,
         "rgb": 9130720
+      }
+    },
+    {
+      "query": "tag:#aesthetics",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#economics",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#politics",
+      "color": {
+        "a": 1,
+        "rgb": 11809100
+      }
+    },
+    {
+      "query": "tag:#law",
+      "color": {
+        "a": 1,
+        "rgb": 5431518
+      }
+    },
+    {
+      "query": "tag:#praxeology",
+      "color": {
+        "a": 1,
+        "rgb": 3988903
+      }
+    },
+    {
+      "query": "tag:#ethics",
+      "color": {
+        "a": 1,
+        "rgb": 5408992
       }
     },
     {
@@ -36,13 +78,6 @@
       }
     },
     {
-      "query": "tag:#metaphysics",
-      "color": {
-        "a": 1,
-        "rgb": 14889265
-      }
-    },
-    {
       "query": "tag:#epistemology",
       "color": {
         "a": 1,
@@ -50,45 +85,10 @@
       }
     },
     {
-      "query": "tag:#ethics",
+      "query": "tag:#metaphysics",
       "color": {
         "a": 1,
-        "rgb": 5408992
-      }
-    },
-    {
-      "query": "tag:#aesthetics",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "tag:#politics",
-      "color": {
-        "a": 1,
-        "rgb": 11809100
-      }
-    },
-    {
-      "query": "tag:#economics",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#law",
-      "color": {
-        "a": 1,
-        "rgb": 5431518
-      }
-    },
-    {
-      "query": "tag:#praxeology",
-      "color": {
-        "a": 1,
-        "rgb": 3988903
+        "rgb": 14889265
       }
     },
     {
@@ -111,11 +111,11 @@
   "textFadeMultiplier": -2.6,
   "nodeSizeMultiplier": 1.73333333333333,
   "lineSizeMultiplier": 0.9421875,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.473958333333333,
   "repelStrength": 20,
   "linkStrength": 0.619791666666667,
   "linkDistance": 500,
-  "scale": 0.03955078125,
+  "scale": 0.13348388671875,
   "close": false
 }
