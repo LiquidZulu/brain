@@ -8,31 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0d805bd6502c520",
+            "id": "c175ea804987473e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Sensory-Perceptual Level as Automatic.md",
+                "file": "Mental Focus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c175ea804987473e",
+            "id": "c506edbe5335ca58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental Focus as Having Degrees.md",
+                "file": "The Primary Choice Being Focus or Drift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4099a885d33ac2a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Focus as Antecedent to Any Choice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental Focus as Having Degrees.md",
+                "file": "Focus as Antecedent to Any Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental Focus as Having Degrees.md",
+                "file": "Focus as Antecedent to Any Choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental Focus as Having Degrees.md"
+                "file": "Focus as Antecedent to Any Choice.md"
               }
             }
           },
@@ -168,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mental Focus as Having Degrees.md"
+                "file": "Focus as Antecedent to Any Choice.md"
               }
             }
           }
@@ -190,8 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c175ea804987473e",
+  "active": "4099a885d33ac2a3",
   "lastOpenFiles": [
+    "The Primary Choice Being Focus or Drift.md",
+    "Focus as Antecedent to Any Choice.md",
     "Mental Focus.md",
     "Mental Focus as Having Degrees.md",
     "The Sensory-Perceptual Level as Automatic.md",
@@ -216,8 +230,6 @@
     "The Primacy of Existence vs The Primacy of Consciousness.md",
     "Forms of the Primacy of Consciousness.md",
     "Primacy of the Social Consciousness.md",
-    "The Fundamental Axioms of Metaphysics.md",
-    "The Law of Identity.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
