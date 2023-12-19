@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "2c4b7214e187523d",
+            "id": "c175ea804987473e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Epistemic Primacy of Sense Perception.md",
+                "file": "Mental Focus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Sensory-Perceptual Level as Automatic.md",
+                "file": "Mental Focus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Sensory-Perceptual Level as Automatic.md",
+                "file": "Mental Focus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Sensory-Perceptual Level as Automatic.md"
+                "file": "Mental Focus.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Sensory-Perceptual Level as Automatic.md"
+                "file": "Mental Focus.md"
               }
             }
           }
@@ -189,10 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0d805bd6502c520",
+  "active": "c175ea804987473e",
   "lastOpenFiles": [
-    "The Epistemic Primacy of Sense Perception.md",
     "The Sensory-Perceptual Level as Automatic.md",
+    "Mental Focus.md",
+    "The Epistemic Primacy of Sense Perception.md",
     "Sense Perception.md",
     "The Levels of Consciousness.md",
     "Existence is Identity.md",
@@ -216,7 +218,6 @@
     "The Fundamental Axioms of Metaphysics.md",
     "The Law of Identity.md",
     "Omnipotence.md",
-    "Metaphysics.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
