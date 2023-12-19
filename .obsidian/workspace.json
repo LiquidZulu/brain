@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Focus as Antecedent to Any Choice.md",
+                "file": "The Primary Choice Being Focus or Drift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Focus as Antecedent to Any Choice.md",
+                "file": "The Primary Choice Being Focus or Drift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Focus as Antecedent to Any Choice.md"
+                "file": "The Primary Choice Being Focus or Drift.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Focus as Antecedent to Any Choice.md"
+                "file": "The Primary Choice Being Focus or Drift.md"
               }
             }
           }
@@ -202,10 +202,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4099a885d33ac2a3",
+  "active": "c506edbe5335ca58",
   "lastOpenFiles": [
-    "The Primary Choice Being Focus or Drift.md",
     "Focus as Antecedent to Any Choice.md",
+    "The Primary Choice Being Focus or Drift.md",
     "Mental Focus.md",
     "Mental Focus as Having Degrees.md",
     "The Sensory-Perceptual Level as Automatic.md",
