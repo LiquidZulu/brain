@@ -7,6 +7,7 @@ authors:
 aliases:
   - focus
   - drift
+  - Focus is volitional
 ---
 The [[Conceptual Consciousness|conceptual]] [[The Levels of Consciousness|level of awareness]] [[The Validation of Free Will|is free]]--that is, *[[Free Will|volitional]]*--[[The Primary Choice Being Focus or Drift|the primary choice on this level is the choice of whether to focus or drift]].
 
