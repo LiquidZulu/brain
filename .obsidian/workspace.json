@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c175ea804987473e",
+            "id": "77bccefedd1cc18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental Focus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c506edbe5335ca58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Primary Choice Being Focus or Drift.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4099a885d33ac2a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Focus as Antecedent to Any Choice.md",
+                "file": "Psychological Inertia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Primary Choice Being Focus or Drift.md",
+                "file": "Psychological Inertia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Primary Choice Being Focus or Drift.md",
+                "file": "Psychological Inertia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Primary Choice Being Focus or Drift.md"
+                "file": "Psychological Inertia.md"
               }
             }
           },
@@ -180,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Primary Choice Being Focus or Drift.md"
+                "file": "Psychological Inertia.md"
               }
             }
           }
@@ -202,10 +177,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c506edbe5335ca58",
+  "active": "77bccefedd1cc18f",
   "lastOpenFiles": [
-    "Focus as Antecedent to Any Choice.md",
     "The Primary Choice Being Focus or Drift.md",
+    "Psychological Inertia.md",
+    "Focus as Antecedent to Any Choice.md",
     "Mental Focus.md",
     "Mental Focus as Having Degrees.md",
     "The Sensory-Perceptual Level as Automatic.md",
@@ -229,7 +205,6 @@
     "God as the Designer.md",
     "The Primacy of Existence vs The Primacy of Consciousness.md",
     "Forms of the Primacy of Consciousness.md",
-    "Primacy of the Social Consciousness.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
