@@ -1,0 +1,8 @@
+---
+tags:
+  - philosophy
+  - epistemology
+authors:
+  - "[[LiquidZulu]]"
+---
+The [[Sensation|sensory]] [[The Levels of Consciousness|level of awareness]] consists of a set of fleeting impressions that are lost the moment they are no longer impinging upon the sensory organs of the creature in question; on the [[Sense Perception|perceptual]] level, these impressions are retained and integrated into specific [[Percept|percepts]]. Both of these levels are automatic---it is not possible for a creature to choose to not sense a given entity, as [[The Metaphysical Status of Sensory Qualities|this would violate causality]]. It is also not possible to choose to not perform the retaining and integration of qualia into percepts---you cannot choose to not see a table and instead see only the fleeting, momentary sensations that make up the table. This is because [[The Epistemic Primacy of Sense Perception|the perceptual stage is given]]--*[[Metaphysically Given|metaphysically given]]*--in any process of cognition you do and must start with the fact of *[[Entity|entities]]* which you are performing your cognition upon, but knowledge of those entities exists on the perceptual level. If perception was [[Free Will|volitional]], then one could simply choose how to integrate sensory data however they wanted and they could never begin any process of cognition. I could decide that I want tables to be chairs, and chairs to be [[Hegel]]---I would not be able to deduce any *facts* about [[Existence Exists|reality]].

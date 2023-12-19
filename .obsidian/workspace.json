@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Free Will.md",
+                "file": "The Sensory-Perceptual Level as Automatic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c4b7214e187523d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Epistemic Primacy of Sense Perception.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Free Will.md",
+                "file": "The Sensory-Perceptual Level as Automatic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Free Will.md",
+                "file": "The Sensory-Perceptual Level as Automatic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free Will.md"
+                "file": "The Sensory-Perceptual Level as Automatic.md"
               }
             }
           },
@@ -155,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Free Will.md"
+                "file": "The Sensory-Perceptual Level as Automatic.md"
               }
             }
           }
@@ -179,32 +191,32 @@
   },
   "active": "e0d805bd6502c520",
   "lastOpenFiles": [
-    "Argumentative Soundness.md",
-    "Argumentative Validity.md",
+    "The Epistemic Primacy of Sense Perception.md",
+    "The Sensory-Perceptual Level as Automatic.md",
+    "Sense Perception.md",
+    "The Levels of Consciousness.md",
+    "Existence is Identity.md",
+    "God as a Rejection of the Basic Axioms.md",
+    "Existence Exists.md",
+    "Different Forms of Sense Perception does not Invalidate Sense Perception.md",
+    "A Physical Explanation for Consciousness or Free Will does not Negate Their Existence.md",
     "Free Will.md",
-    "Naive Anarchism as a Package Deal.md",
-    "Economics.md",
-    "Naive Realism.md",
-    "The Categories of Being.md",
-    "Arguments from Defining God into Existence.md",
-    "The Error of Conflating the Potential with the Actual.md",
-    "The Senses as Distorted Implies Non-Consciousness.md",
-    "The Grand Canyon Argument.md",
-    "Common Bromides.md",
-    "Skyscrapers as the True Dimensions of Man.md",
-    "Bundled Philosophy.md",
-    "Scientism.md",
-    "Is Free Will Magic.md",
-    "A Critical Examination of the Objectivist Metaphysic.md",
-    "The Error of Mechanistic Causality.md",
-    "Epistemology as Dependent Upon the Fallibility of a Conceptual Consciousness.md",
-    "Consciousness as a non-Entity.md",
-    "Objectivism does not Hold that Consciousness is an Entity.md",
-    "Consciousness.md",
-    "The Characteristics of Entities.md",
-    "Examples of Entities.md",
-    "A Baby-in-a-Womb as an Entity.md",
-    "Fire as a non-Entity.md",
+    "Epistemology.md",
+    "Reason.md",
+    "God as a Pure Self-Consciousness.md",
+    "God as the Creator.md",
+    "God as a Miracle-Worker.md",
+    "God as Infinite.md",
+    "Omniscience.md",
+    "God as Omnipotent.md",
+    "God as the Designer.md",
+    "The Primacy of Existence vs The Primacy of Consciousness.md",
+    "Forms of the Primacy of Consciousness.md",
+    "Primacy of the Social Consciousness.md",
+    "The Fundamental Axioms of Metaphysics.md",
+    "The Law of Identity.md",
+    "Omnipotence.md",
+    "Metaphysics.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
