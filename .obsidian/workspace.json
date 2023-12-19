@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental Focus.md",
+                "file": "Mental Focus as Having Degrees.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental Focus.md",
+                "file": "Mental Focus as Having Degrees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental Focus.md",
+                "file": "Mental Focus as Having Degrees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental Focus.md"
+                "file": "Mental Focus as Having Degrees.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mental Focus.md"
+                "file": "Mental Focus as Having Degrees.md"
               }
             }
           }
@@ -192,8 +192,9 @@
   },
   "active": "c175ea804987473e",
   "lastOpenFiles": [
-    "The Sensory-Perceptual Level as Automatic.md",
     "Mental Focus.md",
+    "Mental Focus as Having Degrees.md",
+    "The Sensory-Perceptual Level as Automatic.md",
     "The Epistemic Primacy of Sense Perception.md",
     "Sense Perception.md",
     "The Levels of Consciousness.md",
@@ -217,7 +218,6 @@
     "Primacy of the Social Consciousness.md",
     "The Fundamental Axioms of Metaphysics.md",
     "The Law of Identity.md",
-    "Omnipotence.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
