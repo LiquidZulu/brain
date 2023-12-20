@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychological Inertia.md",
+                "file": "Evasion.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychological Inertia.md",
+                "file": "Evasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychological Inertia.md",
+                "file": "Evasion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychological Inertia.md"
+                "file": "Evasion.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Psychological Inertia.md"
+                "file": "Evasion.md"
               }
             }
           }
@@ -179,8 +179,9 @@
   },
   "active": "77bccefedd1cc18f",
   "lastOpenFiles": [
-    "The Primary Choice Being Focus or Drift.md",
     "Psychological Inertia.md",
+    "Evasion.md",
+    "The Primary Choice Being Focus or Drift.md",
     "Focus as Antecedent to Any Choice.md",
     "Mental Focus.md",
     "Mental Focus as Having Degrees.md",
@@ -204,7 +205,6 @@
     "God as Omnipotent.md",
     "God as the Designer.md",
     "The Primacy of Existence vs The Primacy of Consciousness.md",
-    "Forms of the Primacy of Consciousness.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
