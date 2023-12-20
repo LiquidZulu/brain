@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "44c0e94996fa4b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychological Inertia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psychological Inertia.md",
+                "file": "Evasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psychological Inertia.md",
+                "file": "Evasion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psychological Inertia.md"
+                "file": "Evasion.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Psychological Inertia.md"
+                "file": "Evasion.md"
               }
             }
           }
@@ -190,12 +177,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44c0e94996fa4b04",
+  "active": "77bccefedd1cc18f",
   "lastOpenFiles": [
+    "Psychological Inertia.md",
     "The Interrelation of Evasion and Drift.md",
     "Mental Focus.md",
     "Evasion.md",
-    "Psychological Inertia.md",
     "The Primary Choice Being Focus or Drift.md",
     "Focus as Antecedent to Any Choice.md",
     "Mental Focus as Having Degrees.md",
