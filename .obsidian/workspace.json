@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77bccefedd1cc18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Secondary Choice Being The Choice to Think or Evade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5104a738c582e9d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Determinist-Indeterminist False-Dichotomy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "748512c45e4e4c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Pre-Requisites of Epistemology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b251ace11bc921e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Law of Causality.md",
+                "file": "God as a Rejection of the Basic Axioms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Determinist-Indeterminist False-Dichotomy.md",
+                "file": "God as a Rejection of the Basic Axioms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Determinist-Indeterminist False-Dichotomy.md",
+                "file": "God as a Rejection of the Basic Axioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Determinist-Indeterminist False-Dichotomy.md"
+                "file": "God as a Rejection of the Basic Axioms.md"
               }
             }
           },
@@ -192,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Determinist-Indeterminist False-Dichotomy.md"
+                "file": "God as a Rejection of the Basic Axioms.md"
               }
             }
           }
@@ -216,9 +179,9 @@
   },
   "active": "5104a738c582e9d3",
   "lastOpenFiles": [
+    "The Determinist-Indeterminist False-Dichotomy.md",
     "The Pre-Requisites of Epistemology.md",
     "The Error of Mechanistic Causality.md",
-    "The Determinist-Indeterminist False-Dichotomy.md",
     "The Law of Causality.md",
     "The Secondary Choice Being The Choice to Think or Evade.md",
     "Focus as Antecedent to Any Choice.md",
