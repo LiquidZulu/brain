@@ -4,7 +4,6 @@ tags:
   - metaphysics
 authors: "[[LiquidZulu]]"
 ---
-
 - [[God as the Creator]]
 - [[God as the Designer]]
 - [[God as Omnipotent]]
