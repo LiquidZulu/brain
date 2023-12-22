@@ -8,6 +8,7 @@ authors:
 aliases:
   - compatibilism
   - Compatibilism
+  - The Meaning of "Cause" in Human Action
 ---
 The [[Determinism|determinist]] thesis is that there is no such thing as [[Free Will|volition]]. On this point they present us a dichotomy: either you accept [[The Law of Causality|causality]] in which case every [[Metaphysical Action|action]] of man is caused and therefore pre-determined, or you reject causality in order to keep volition in the picture. This is a false-dichotomy accepted by the "indeterminists," who accept this notion of [[Libertarian Free Will|libertarian free-will]]---that is, they agree with the fundamental premise that causality is incompatible with free-will, then accept that man does have free will, and therefore conclude that causality is false.
 
