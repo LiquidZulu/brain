@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit (Epistemology).md",
+                "file": "Epistemic Units as Objective.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit (Epistemology).md",
+                "file": "Epistemic Units as Objective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit (Epistemology).md",
+                "file": "Epistemic Units as Objective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit (Epistemology).md"
+                "file": "Epistemic Units as Objective.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unit (Epistemology).md"
+                "file": "Epistemic Units as Objective.md"
               }
             }
           }
@@ -179,8 +179,9 @@
   },
   "active": "5104a738c582e9d3",
   "lastOpenFiles": [
-    "The Levels of Consciousness.md",
     "Unit (Epistemology).md",
+    "Epistemic Units as Objective.md",
+    "The Levels of Consciousness.md",
     "Metaphysically Given.md",
     "The Secondary Choice Being The Choice to Think or Evade.md",
     "The Error in Regarding the Metaphysically Given as Mutable.md",
@@ -204,7 +205,6 @@
     "Evasion.md",
     "Psychological Inertia.md",
     "The Interrelation of Evasion and Drift.md",
-    "Mental Focus.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
