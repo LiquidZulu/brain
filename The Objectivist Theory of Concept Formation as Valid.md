@@ -24,3 +24,5 @@ Furthermore, [[Innate Knowledge as a Violation of Causality|innate knowledge vio
 Option (3), is wrong because [[Mysticism as Invalid|mysticism is invalid]].
 
 Options (4) and (5) both rely on language in their statement, language is itself conceptual, so they wipe themselves out.
+
+[^1]: [[OPAR]], p. 39
