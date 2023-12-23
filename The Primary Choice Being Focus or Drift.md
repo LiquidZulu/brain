@@ -16,7 +16,7 @@ Because focus/drift is a *primary* this means it does not rely on anything antec
 
 This is not to imply, either, that the *choice* of focus or drift is in some way *determined* by the fact that man is conscious, or that he exists---these are just prior requirements. It is still a *choice*, and in the hierarchy of choices, it is the primary.
 
->For the same reason, there can be no motive or value-judgment which precedes consciousness and which induces a man to become conscious. The decision to perceive reality must precede value-judgments. Otherwise, values have no source in one's cognition of reality and thus become delusions. Values do not lead to consciousness; consciousness is what leads to values.
+>For the same reason, there can be no motive or [[Value-Judegment|value-judgment]] which precedes consciousness and which induces a man to become conscious. The decision to perceive reality must precede value-judgments. Otherwise, [[Value|values]] have no source in one's cognition of reality and thus become delusions. Values do not lead to consciousness; consciousness is what leads to values.
 >
 >In short, it is invalid to ask: why did a man choose to focus? There is no such "why." There is only the fact that a man *chose*: he chose the effort of consciousness, or he chose non-effort and unconsciousness. In this regard, every man at every waking moment is a prime mover.[^1]
 
