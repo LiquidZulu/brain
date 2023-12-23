@@ -24,8 +24,12 @@ Second, if [[Determinism|determinism]] is true, then the determinist is pre-dest
 
 Thus, man must think in order to know, he must *choose* to orient his mind towards an apprehension of reality---reality will not impinge any facts upon him. If man could not make this choice to attach his mind to reality then his consciousness would be incapable of any cognition, which means that his consciousness would be detached from reality, which means it would not be a consciousness. But, [[The Law of Identity|A is A]].
 
->Volition, accordingly, is not an independent philosophic principle, but a corollary of [[The Axiom of Consciousness|the axiom of consciousness]]. Not every consciousness has the faculty of volition. Every fallible, conceptual consciousness, however, does have it.[^3]
+>Volition, accordingly, is not an independent philosophic principle, but a corollary of [[The Axiom of Consciousness|the axiom of consciousness]]. Not every consciousness has the faculty of volition. Every fallible, conceptual consciousness, however, does have it.
+>
+>If a determinist tried to assess his viewpoint as knowledge, he would have to say, in effect: "I *am* in control of my mind. I do have the power to *decide* to focus on reality. I do not merely submit spinelessly to whatever distortions happen to be decreed by some chain of forces stretching back to infinity. I am free, free to be objective, free to conclude---that I am not free."
+>
+>Like any rejection of a philosophic axiom, determinism is self-refuting. Just as one must accept existence or consciousness in order to deny it, so one must accept volition in order to deny it. A philosophic axiom cannot be proved, because it is one of the bases of proof. But for the same reason it cannot be escaped, either. By its nature, it is impregnable.[^3]
 
 [^1]: [[OPAR]], p. 70
 [^2]: [[OPAR]], p. 70-71
-[^3]: [[OPAR]], p. 71
+[^3]: [[OPAR]], p. 71-72
