@@ -28,7 +28,7 @@ So, to summarise, the formation of a concept goes as follows:
 2. [[Integration|integration]] of differentiated qualia into [[Entity|entities]]---[[Sense Perception|perceptual]];
 3. [[Differentiation|differentiation]] of entities (*this* thing as against *that* thing)---[[Sense Perception|perceptual]];
 4. [[Abstraction|abstraction]] of differentiated entities---[[Conceptual Consciousness|conceptual]], and;
-5. [[Integration]] of abstracted aspects into [[Concept|concepts]]---[[Conceptual Consciousness|conceptual]].
+5. [[Integration|integration]] of abstracted aspects into [[Concept|concepts]]---[[Conceptual Consciousness|conceptual]].
 
 [^1]: [[OPAR]], 77
 [^2]: [[OPAR]], 78
