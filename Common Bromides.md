@@ -14,7 +14,7 @@ A "bromide" is a bumper-sticker slogan used out of place as an [[Axioms as Irred
 + [[Altruism as Anti-Human|"you should compromise---your ego is too big"]] / "don't toot your own horn"
 + [[Scientism|"trust the science"]]
 + [[The Grand Canyon Argument]]
-+ [[The Mystic Theory of Concepts as a Poison|"you're making an abstract argument, I'm talking *reality*"]]
++ [[The Mystic Theory of Concepts as a Poison|"you're making an abstract argument, I'm talking reality"]]
 + [[Conceptual Scepticism|"this is all just a meaningless semantic disagreement, but people can use words anyhow"]]
 
 [^1]: [[FH]], 567
