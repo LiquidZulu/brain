@@ -24,13 +24,13 @@ What makes man unique in this process of observing similarities between differen
 Once a man has separated these aspects out from a number of particulars and grouped them together, his cognitive task is not yet complete. In order to form a *concept* he must [[Integration|integrate]] this group---"blending all the relevant \[attributes] into an inseparable whole."[^2] This "mental entity"[^3] is then able to stand in for an infinite number of possible permutations that might be found[^4] in concrete examples in the future---we can now, when we see a new table immediately grasp it not as its own entirely unique particular, but as a *unit* of the *concept* "table." 
 
 So, to summarise, the formation of a concept goes as follows:
-1. [[Differentiation|differentiation]] of [[The Metaphysical Status of Sensory Qualities|qualia]] (e.g. "brownness," "smoothness," "woodenness.")---[[Sense Perception|perceptual]];
-2. [[Integration|integration]] of differentiated qualia into [[Entity|entities]]---[[Sense Perception|perceptual]];
+1. [[Differentiation|differentiation]] of [[The Metaphysical Status of Sensory Qualities|qualia]] (e.g. the individual sensations of brown, smooth, cold, etc.) within the constant noise on the [[Sensation|sensational level]]---[[Sense Perception|perceptual]];
+2. [[Integration|integration]] of differentiated qualia into [[Entity|entities]] (a complete object that is brown, smooth, and cold)---[[Sense Perception|perceptual]];
 3. [[Differentiation|differentiation]] of entities (*this* thing as against *that* thing)---[[Sense Perception|perceptual]];
-4. [[Abstraction|abstraction]] of differentiated entities---[[Conceptual Consciousness|conceptual]], and;
-5. [[Integration|integration]] of abstracted aspects into [[Concept|concepts]]---[[Conceptual Consciousness|conceptual]].
+4. [[Abstraction|abstraction]] of differentiated entities (having four legs, having this certain pattern, having a flat top)---[[Conceptual Consciousness|conceptual]], and;
+5. [[Integration|integration]] of abstracted aspects into [[Concept|concepts]] ("table")---[[Conceptual Consciousness|conceptual]].
 
 [^1]: [[OPAR]], 77
 [^2]: [[OPAR]], 78
-[^3]: [[Leonard Peikoff|Peikoff]]'s phrase, do note that concepts are not actual entities, they don't pop up in some "[[Plato's World of Forms|world of forms]]" after they have been generated---they exist purely in the mind of the man who has formed them.
+[^3]: I did not originate this phrase, it can be found in [[OPAR]] and [[ITOE]], do note that concepts are not actual entities, they don't pop up in some "[[Plato's World of Forms|world of forms]]" after they have been generated---they exist purely in the mind of the man who has formed them.
 [^4]: "Might be found" is key---we are dealing with the concept as standing in for infinite concretes, but [[Infinity as a Floating Abstraction|actual infinity is a floating abstraction]]. This is speaking here of a *[[Potential|potential]]*---you *might* come across extra examples of tables, and when you do you know that these belong to the same concept as the finite particulars that you have studied before. "Infinite" in this context, is referring to "open-endedness"---much like the set of numbers is "open-ended," i.e. you can keep listing off new numbers forever. To relate this [[Mathematics|mathematical]] analogy back to the theory of concepts---the concept "table" is open-ended in the sense that you can keep finding new examples of tables, and the nature of concepts is such that you can readily regard these new examples as units of the same concept without having to specify at the offset how many tables are included in the concept "table."
