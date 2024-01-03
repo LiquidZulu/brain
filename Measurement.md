@@ -15,5 +15,7 @@ Let's apply this to the [[Particular|concrete]] of a lead pipe. This pipe is an 
 
 >\[...] the standard provides only the form of notation, not the substance nor the result of the process of measuring. The facts established by measurement will be the same, regardless of the particular standard used; the standard can neither alter nor affect them. The requirements of a standard of measurement are: that it represent the appropriate attribute, that it be easily [[Sense Perception|perceivable]] by man and that, once chosen, it remain immutable and absolute whenever used.[^2]
 
+In saying that the above pipe has a diameter of 5cm, what one is doing is identifying the relationship between this pipe's diameter and the already understood length of a meter---it is allowing one to cognitively grasp this new concrete length in relation to the previously established standard called a meter.
+
 [^1]: [[ITOE]], 7
 [^2]: [[ITOE]], 7; see also: [[The Requirements of a Standard of Measurement]]
