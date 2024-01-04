@@ -27,7 +27,7 @@ So, to summarise, the formation of a concept goes as follows:
 1. [[Differentiation|differentiation]] of [[The Metaphysical Status of Sensory Qualities|qualia]] (e.g. the individual sensations of brown, smooth, cold, etc.) within the constant noise on the [[Sensation|sensational level]]---[[Sense Perception|perceptual]];
 2. [[Integration|integration]] of differentiated qualia into [[Entity|entities]] (a complete object that is brown, smooth, and cold)---[[Sense Perception|perceptual]];
 3. [[Differentiation|differentiation]] of entities (*this* thing as against *that* thing)---[[Sense Perception|perceptual]];
-4. [[Abstraction|abstraction]] of differentiated entities (having four legs, having this certain pattern, having a flat top)---[[Conceptual Consciousness|conceptual]], and;
+4. [[Abstraction|abstraction]] of differentiated entities (having a certain number of legs, having this certain pattern, having a flat top)---[[Conceptual Consciousness|conceptual]], and;
 5. [[Integration|integration]] of abstracted aspects into [[Concept|concepts]] ("table")---[[Conceptual Consciousness|conceptual]].
 
 [^1]: [[OPAR]], 77
