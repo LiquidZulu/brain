@@ -26,7 +26,7 @@ On [[The Objectivist Theory of Concepts|the Objectivist theory of concepts]], ma
 
 *This* is the relationship between concepts and concretes: the concept is a stand-in for a concrete whose attributes exist with any quantity---"Length must exist in some quantity, but may exist in any quantity. I shall identify as 'length' that attribute of any existent possessing it which can be quantitatively related to a unit of length, without specifying the quantity."[^7] With respect to concepts, the puzzle laid out above has it that the differences between specific concretes is apparent, but it is unclear what is the *same* between them. [[Ayn Rand|Rand]] has it that what is similar is the characteristics sans the specific measurments or quantities of those characteristics---the formation of a concept involves retaining *all* of the characteristics and omitting *all* of the measurements (within certain bounds).
 
-This is not to say that the specific quantities of these entities are unreal, or subjective, or irrelevant--- "It means that *measurements exist, but are not specified*. That measurements *must* exist is an essential part of the process. The principle is: the relevant measurements must exist in *some* quantity, but may exist in *any* quantity."[^8]
+This is not to say that the specific quantities of these entities are unreal, or subjective, or irrelevant---"It means that *measurements exist, but are not specified*. That measurements *must* exist is an essential part of the process. The principle is: the relevant measurements must exist in *some* quantity, but may exist in *any* quantity."[^8]
 
 [^1]: [[OPAR]], 79
 [^2]: [[OPAR]], 80
