@@ -28,7 +28,7 @@ On [[The Objectivist Theory of Concepts|the Objectivist theory of concepts]], ma
 
 > "Manness," \[...] is *men*, the real men who exist, past, present, and future; it is men viewed from a certain perspective.[^8]
 
-This is not to say that the specific quantities of these entities are unreal, or subjective, or irrelevant---"It means that *measurements exist, but are not specified*. That measurements *must* exist is an essential part of the process. The principle is: the relevant measurements must exist in *some* quantity, but may exist in *any* quantity."[^9]
+This is not to say that the specific quantities of these entities are unreal, or subjective, or irrelevant---"It means that *measurements exist, but are not specified*. That measurements *must* exist is an essential part of the process. The principle is: the relevant measurements must exist in *some* quantity, but may exist in *any* quantity."[^9] [[Ayn Rand]] perfectly highlights [[Concept-Formation as an Algebraic Process|the connection between concept-formation and algebra]] in connection to this: namely, in the equation $2a = a + a$, $a$ is a stand-in for whatever specific number you might want to choose, just as surely as "man" is a stand-in for whatever specific man you wish to refer to.
 
 [^1]: [[OPAR]], 79
 [^2]: [[OPAR]], 80
