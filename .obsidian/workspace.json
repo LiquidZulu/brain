@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82912da97068fc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptual Order.md",
+                "file": "Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptual Order.md",
+                "file": "Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptual Order.md"
+                "file": "Philosophy.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Conceptual Order.md"
+                "file": "Philosophy.md"
               }
             }
           }
@@ -179,10 +192,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49e3198a991eb00a",
+  "active": "82912da97068fc86",
   "lastOpenFiles": [
-    "The Law of Causality.md",
+    "Objectivism.md",
+    "Concepts of Consciousness as Involving Measurement-Omission.md",
+    "Conscious Action.md",
+    "Conscious Content.md",
     "Conceptual Order.md",
+    "The Law of Causality.md",
     "The Categories of Being.md",
     "Concept-Formation as an Algebraic Process.md",
     "The Metaphysical Status of Concepts.md",
@@ -203,10 +220,6 @@
     "Mysticism as Invalid.md",
     "Epistemic Units as Objective.md",
     "Integration.md",
-    "Unit (Epistemology).md",
-    "Metaphysically Given.md",
-    "The Secondary Choice Being The Choice to Think or Evade.md",
-    "The Error in Regarding the Metaphysically Given as Mutable.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
