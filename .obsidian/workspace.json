@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy.md",
+                "file": "Objectivism.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy.md",
+                "file": "Objectivism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy.md",
+                "file": "Objectivism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy.md"
+                "file": "Objectivism.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Philosophy.md"
+                "file": "Objectivism.md"
               }
             }
           }
@@ -194,6 +194,7 @@
   },
   "active": "82912da97068fc86",
   "lastOpenFiles": [
+    "Philosophy.md",
     "Objectivism.md",
     "Concepts of Consciousness as Involving Measurement-Omission.md",
     "Conscious Action.md",
@@ -219,7 +220,6 @@
     "The Objectivist Theory of Concept Formation as Valid.md",
     "Mysticism as Invalid.md",
     "Epistemic Units as Objective.md",
-    "Integration.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
