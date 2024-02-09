@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How Much Time Has There Been.md",
+                "file": "The Epistemic Role of Measurement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbfcd4f7409d0989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept-Formation as an Algebraic Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Much Time Has There Been.md",
+                "file": "The Epistemic Role of Measurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How Much Time Has There Been.md",
+                "file": "The Epistemic Role of Measurement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How Much Time Has There Been.md"
+                "file": "The Epistemic Role of Measurement.md"
               }
             }
           },
@@ -157,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "How Much Time Has There Been.md"
+                "file": "The Epistemic Role of Measurement.md"
               }
             }
           }
@@ -181,8 +193,11 @@
   },
   "active": "1faf603dc0292767",
   "lastOpenFiles": [
-    "Free Will.md",
+    "Concept-Formation as an Algebraic Process.md",
+    "The Epistemic Role of Measurement.md",
+    "The Objectivist Theory of Concepts.md",
     "How Much Time Has There Been.md",
+    "Free Will.md",
     "The Validation of Free Will.md",
     "The Pre-Requisites of Epistemology.md",
     "Conceptual Order.md",
@@ -193,15 +208,12 @@
     "Conscious Content.md",
     "The Law of Causality.md",
     "The Categories of Being.md",
-    "Concept-Formation as an Algebraic Process.md",
     "The Metaphysical Status of Concepts.md",
     "Differentiation.md",
-    "The Objectivist Theory of Concepts.md",
     "Concept.md",
     "Abstraction.md",
     "Conceptual Common Denominator.md",
     "Commensurability.md",
-    "The Epistemic Role of Measurement.md",
     "The Differing Challenges of Explicating a Standard of Measurement.md",
     "Measurement.md",
     "The Requirements of a Standard of Measurement.md",
