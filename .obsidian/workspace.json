@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Epistemic Role of Measurement.md",
+                "file": "Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Epistemic Role of Measurement.md",
+                "file": "Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Epistemic Role of Measurement.md",
+                "file": "Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Epistemic Role of Measurement.md"
+                "file": "Philosophy.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Epistemic Role of Measurement.md"
+                "file": "Philosophy.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "1faf603dc0292767",
   "lastOpenFiles": [
-    "Concept-Formation as an Algebraic Process.md",
     "The Epistemic Role of Measurement.md",
+    "Concept-Formation as an Algebraic Process.md",
     "The Objectivist Theory of Concepts.md",
     "How Much Time Has There Been.md",
     "Free Will.md",
