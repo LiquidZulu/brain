@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "189d5e5995c709f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Primacy of Consciousness as the Fundamental Error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbfcd4f7409d0989",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Categories of Being.md",
+                "file": "The Primacy of Consciousness as the Fundamental Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Categories of Being.md",
+                "file": "The Primacy of Consciousness as the Fundamental Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Categories of Being.md"
+                "file": "The Primacy of Consciousness as the Fundamental Error.md"
               }
             }
           },
@@ -178,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Categories of Being.md"
+                "file": "The Primacy of Consciousness as the Fundamental Error.md"
               }
             }
           }
@@ -200,8 +212,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2654142d55678316",
+  "active": "189d5e5995c709f6",
   "lastOpenFiles": [
+    "The Categories of Being.md",
+    "The Primacy of Consciousness as the Fundamental Error.md",
     "The Primary-Secondary Quality Distinction.md",
     "Philosophy.md",
     "The Epistemic Role of Measurement.md",
@@ -217,7 +231,6 @@
     "Conscious Action.md",
     "Conscious Content.md",
     "The Law of Causality.md",
-    "The Categories of Being.md",
     "The Metaphysical Status of Concepts.md",
     "Differentiation.md",
     "Concept.md",
@@ -227,7 +240,6 @@
     "The Differing Challenges of Explicating a Standard of Measurement.md",
     "Measurement.md",
     "The Requirements of a Standard of Measurement.md",
-    "Common Bromides.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
