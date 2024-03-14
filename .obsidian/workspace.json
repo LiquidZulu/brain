@@ -11,9 +11,17 @@
             "id": "1faf603dc0292767",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2654142d55678316",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy.md",
+                "file": "The Categories of Being.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy.md",
+                "file": "The Categories of Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy.md",
+                "file": "The Categories of Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy.md"
+                "file": "The Categories of Being.md"
               }
             }
           },
@@ -169,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Philosophy.md"
+                "file": "The Categories of Being.md"
               }
             }
           }
@@ -191,8 +200,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1faf603dc0292767",
+  "active": "2654142d55678316",
   "lastOpenFiles": [
+    "The Primary-Secondary Quality Distinction.md",
+    "Philosophy.md",
     "The Epistemic Role of Measurement.md",
     "Concept-Formation as an Algebraic Process.md",
     "The Objectivist Theory of Concepts.md",
@@ -202,7 +213,6 @@
     "The Pre-Requisites of Epistemology.md",
     "Conceptual Order.md",
     "Objectivism.md",
-    "Philosophy.md",
     "Concepts of Consciousness as Involving Measurement-Omission.md",
     "Conscious Action.md",
     "Conscious Content.md",
@@ -218,7 +228,6 @@
     "Measurement.md",
     "The Requirements of a Standard of Measurement.md",
     "Common Bromides.md",
-    "The Levels of Consciousness.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
