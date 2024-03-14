@@ -12,5 +12,7 @@ Various philosophers have attempted to identify and list so-called "categories" 
 
 >There is no "red" or "hard" apart from the crayon or book or other thing that is red or hard. "Five inches" or "six pounds" presuppose the object that extends five inches or weighs six pounds. "To the right of" or "father of" have no reality apart from the things one of which is to the right of another or is the father of another. And--especially important in considering the law of cause and effect--**there are no floating actions; there are only actions performed by entities. "Action" is the name for what entities do. "Walking" or "digesting" have no existence or possibility apart from the creature with legs that walks or the body or organ with enzymes that does the digesting.**[^2]
 
+This is the error of [[Heraclitus]]' [[Heraclitian Flux|world of pure action]]; and the [[Pythagorean]]'s [[Pythagorean World of Numbers|world of numbers]]---there is not change without the things that are changing, and no quantity without the things being quantified. The fundamental constituents of the world are [[Entity|entities]]---if someone tells you that he saw 7 the other day, you ask 7 *what*; and if he says that he saw digesting the other day, you ask *what* was doing the digesting?
+
 [^1]: This list is taken from [[OPAR]], p. 13
 [^2]: [[OPAR]], pp. 13-14
