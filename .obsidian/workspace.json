@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epistemic Authoritarianism.md",
+                "file": "Mysticism.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epistemic Authoritarianism.md",
+                "file": "Mysticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epistemic Authoritarianism.md",
+                "file": "Mysticism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epistemic Authoritarianism.md"
+                "file": "Mysticism.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Epistemic Authoritarianism.md"
+                "file": "Mysticism.md"
               }
             }
           }
@@ -236,6 +236,8 @@
   },
   "active": "21c9236834beed3f",
   "lastOpenFiles": [
+    "Mysticism as Invalid.md",
+    "Mysticism.md",
     "Epistemic Authoritarianism.md",
     "The Primacy of Consciousness as the Fundamental Error.md",
     "The Categories of Being.md",
@@ -260,8 +262,6 @@
     "Abstraction.md",
     "Conceptual Common Denominator.md",
     "Commensurability.md",
-    "The Differing Challenges of Explicating a Standard of Measurement.md",
-    "Measurement.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
