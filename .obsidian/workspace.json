@@ -40,6 +40,28 @@
             }
           },
           {
+            "id": "826b38fdcd228f44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "21c9236834beed3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epistemic Authoritarianism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbfcd4f7409d0989",
             "type": "leaf",
             "state": {
@@ -52,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evasion.md",
+                "file": "Epistemic Authoritarianism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evasion.md",
+                "file": "Epistemic Authoritarianism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evasion.md"
+                "file": "Epistemic Authoritarianism.md"
               }
             }
           },
@@ -190,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Evasion.md"
+                "file": "Epistemic Authoritarianism.md"
               }
             }
           }
@@ -212,8 +234,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "189d5e5995c709f6",
+  "active": "21c9236834beed3f",
   "lastOpenFiles": [
+    "Epistemic Authoritarianism.md",
     "The Primacy of Consciousness as the Fundamental Error.md",
     "The Categories of Being.md",
     "The Primary-Secondary Quality Distinction.md",
@@ -239,7 +262,6 @@
     "Commensurability.md",
     "The Differing Challenges of Explicating a Standard of Measurement.md",
     "Measurement.md",
-    "The Requirements of a Standard of Measurement.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
