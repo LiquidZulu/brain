@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "376d8fcafcae2835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innate Knowledge as a Violation of Causality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fbfcd4f7409d0989",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysticism.md",
+                "file": "Innate Knowledge as a Violation of Causality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mysticism.md",
+                "file": "Innate Knowledge as a Violation of Causality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysticism.md"
+                "file": "Innate Knowledge as a Violation of Causality.md"
               }
             }
           },
@@ -212,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mysticism.md"
+                "file": "Innate Knowledge as a Violation of Causality.md"
               }
             }
           }
@@ -234,7 +246,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21c9236834beed3f",
+  "active": "376d8fcafcae2835",
   "lastOpenFiles": [
     "Mysticism as Invalid.md",
     "Mysticism.md",
