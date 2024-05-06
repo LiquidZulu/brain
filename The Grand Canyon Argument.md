@@ -17,4 +17,6 @@ The grand canyon argument goes something like this:
 
 It is so-named by [[Leonard Peikoff]] as it is often repeated upon seeing the Grand Canyon.
 
+Of course, if we are to view something as insignificant or irrelevant on these grounds, then we should equally discount the Grand Canyon argument itself. After all, its proponents are just monkeys on an insignificant pebble as against the vast enormity of the universe---why should we listen to what they have to say?
+
 [^1]: [[FH]], p. 391
