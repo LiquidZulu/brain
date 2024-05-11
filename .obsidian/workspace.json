@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Grand Canyon Argument.md",
+                "file": "Scientism.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Grand Canyon Argument.md",
+                "file": "Scientism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Grand Canyon Argument.md",
+                "file": "Scientism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Grand Canyon Argument.md"
+                "file": "Scientism.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Grand Canyon Argument.md"
+                "file": "Scientism.md"
               }
             }
           }
@@ -248,6 +248,7 @@
   },
   "active": "376d8fcafcae2835",
   "lastOpenFiles": [
+    "The Grand Canyon Argument.md",
     "The Metaphysically Given as Absolute.md",
     "Innate Knowledge as a Violation of Causality.md",
     "Mysticism as Invalid.md",
@@ -273,7 +274,6 @@
     "The Metaphysical Status of Concepts.md",
     "Differentiation.md",
     "Concept.md",
-    "Abstraction.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
