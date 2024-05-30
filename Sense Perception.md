@@ -7,6 +7,8 @@ authors:
 aliases:
   - Perception
   - perception
+  - sense perception
+  - the senses
 ---
 On the lowest [[The Levels of Consciousness|level of awareness]]--[[Sensation|sensation]]--all experience is of "isolated, fleeting data \[...] a kaleidoscopic succession of new worlds, each swept away by the next as the stimuli involved fade or change."[^1]
 
