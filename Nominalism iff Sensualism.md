@@ -10,7 +10,7 @@ aliases:
   - nominalism-sensualism
   - nominalism iff sensualism
 ---
-[[Nominalism]] implies [[Sensualism|sensualism]], and sensualism implies nominalism.
+[[Nominalism]] implies [[Sensualism|sensualism]], and sensualism implies nominalism; with nominalism as the [[Metaphysics|metaphysical]] component, and sensualism as the [[Epistemology|epistemic]] one.
 
 On nominalism, [[Concept|universals]] are not real, they do not exist in reality. If there are no universals, only [[Particular|particulars]], then there is nothing for man to do cognitively than to [[Sense Perception|perceive]] these particulars. So all thought is sense perception. Therefore nominalism -> sensualism.
 
