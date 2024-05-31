@@ -4,89 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "fdba9bbac28e69b7",
+        "id": "45defb97e4def4da",
         "type": "tabs",
         "children": [
           {
-            "id": "1faf603dc0292767",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2654142d55678316",
+            "id": "730eaf5c836bad11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Categories of Being.md",
+                "file": "Empiricism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "189d5e5995c709f6",
+            "id": "007b25cd7ea91df2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evasion.md",
+                "file": "Rationalism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "826b38fdcd228f44",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "21c9236834beed3f",
+            "id": "48a431f3e72e2fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mysticism.md",
+                "file": "Nominalism.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "376d8fcafcae2835",
+            "id": "ebdbd1d0f0ee9383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scientism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbfcd4f7409d0989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept-Formation as an Algebraic Process.md",
+                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scientism.md",
+                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scientism.md",
+                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scientism.md"
+                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md"
               }
             }
           },
@@ -224,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Scientism.md"
+                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md"
               }
             }
           }
@@ -246,34 +216,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "376d8fcafcae2835",
+  "active": "ebdbd1d0f0ee9383",
   "lastOpenFiles": [
+    "Empiricism.md",
+    "The Conflation of Empiricism and Nominalism-Sensualism.md",
+    "Nominalism iff Sensualism.md",
+    "Rationalism.md",
+    "Sensualism.md",
+    "Sense Perception.md",
+    "Nominalism.md",
+    "Mysticism.md",
+    "Concept-Formation as an Algebraic Process.md",
+    "Scientism.md",
     "The Grand Canyon Argument.md",
     "The Metaphysically Given as Absolute.md",
     "Innate Knowledge as a Violation of Causality.md",
     "Mysticism as Invalid.md",
-    "Mysticism.md",
     "Epistemic Authoritarianism.md",
     "The Primacy of Consciousness as the Fundamental Error.md",
     "The Categories of Being.md",
     "The Primary-Secondary Quality Distinction.md",
     "Philosophy.md",
     "The Epistemic Role of Measurement.md",
-    "Concept-Formation as an Algebraic Process.md",
     "The Objectivist Theory of Concepts.md",
     "How Much Time Has There Been.md",
     "Free Will.md",
     "The Validation of Free Will.md",
     "The Pre-Requisites of Epistemology.md",
     "Conceptual Order.md",
-    "Objectivism.md",
-    "Concepts of Consciousness as Involving Measurement-Omission.md",
-    "Conscious Action.md",
-    "Conscious Content.md",
-    "The Law of Causality.md",
-    "The Metaphysical Status of Concepts.md",
-    "Differentiation.md",
-    "Concept.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
