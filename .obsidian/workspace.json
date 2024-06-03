@@ -8,55 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "730eaf5c836bad11",
+            "id": "8db98625be4a42a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empiricism.md",
+                "file": "Does Omnipotence Include The Ability to make Contradictions True?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "007b25cd7ea91df2",
+            "id": "fb2e54f8f7614fb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rationalism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48a431f3e72e2fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nominalism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebdbd1d0f0ee9383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md",
+                "file": "God as Omnipotent.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md",
+                "file": "Does Omnipotence Include The Ability to make Contradictions True?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md",
+                "file": "Does Omnipotence Include The Ability to make Contradictions True?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md"
+                "file": "Does Omnipotence Include The Ability to make Contradictions True?.md"
               }
             }
           },
@@ -194,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Conflation of Empiricism and Nominalism-Sensualism.md"
+                "file": "Does Omnipotence Include The Ability to make Contradictions True?.md"
               }
             }
           }
@@ -216,10 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebdbd1d0f0ee9383",
+  "active": "8db98625be4a42a2",
   "lastOpenFiles": [
-    "Empiricism.md",
+    "God as Omnipotent.md",
+    "Does Omnipotence Include The Ability to make Contradictions True?.md",
+    "God as a Rejection of the Basic Axioms.md",
     "The Conflation of Empiricism and Nominalism-Sensualism.md",
+    "Empiricism.md",
     "Nominalism iff Sensualism.md",
     "Rationalism.md",
     "Sensualism.md",
@@ -241,9 +219,6 @@
     "The Objectivist Theory of Concepts.md",
     "How Much Time Has There Been.md",
     "Free Will.md",
-    "The Validation of Free Will.md",
-    "The Pre-Requisites of Epistemology.md",
-    "Conceptual Order.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
