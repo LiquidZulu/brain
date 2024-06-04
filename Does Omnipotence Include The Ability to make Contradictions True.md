@@ -4,6 +4,7 @@ tags:
   - metaphysics
 authors:
   - "[[LiquidZulu]]"
+title-override: Does Omnipotence Include The Ability to make Contradictions True?
 ---
 A common rejoinder to the famous "[[Can God Make a Stone that is Too Heavy for God to Lift?|stone paradox]]" is to claim that [[Omnipotence|omnipotence]] does not include the ability to make contradictions true, or violate any other law of logic. This counter is a complete non-starter; because as far as metaphysics is concerned, [[The Metaphysically Given as Absolute|to be is to be necessary]]. So if God's omnipotence does not stretch to the ability to make a stone so heavy that even he cannot lift it, it also must not stretch to the ability to make *any* [[Miracles are a Metaphysical Impossibility|miracles]] occur. A miracle does not just mean something that is super unlikely, or super challenging; it means making [[Entity|entities]] [[Metaphysical Action|act]] outside of their [[The Law of Identity|nature]]. If God is supposed to be able to turn water into wine, or walk across water without falling into it, then he is able to violate [[The Law of Causality|the law of causality]]---this means that he is making contradictions true.
 
