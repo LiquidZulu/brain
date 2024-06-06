@@ -27,7 +27,7 @@ The economic calculation problem (ECP) is the critique of centrally-planned econ
 Consider the case of a [[Capitalism|capitalist]] businessman who wishes to produce cars. He is faced with the choice between building the frame out of aluminium or titanium.[^1] His engineers may be extolling the wonderful properties of titanium, explaining that any car made from it would be vastly more durable, more fuel efficient, and easier to handle than any other option they have tested. This could all be true, but this does not imply that titanium is the superior choice. For it might be that titanium is extremely rare and is needed in the production of incredibly expensive capital. Thus its price is bid up very high---this price represents its relative scarcity. On the other hand, aluminium might be abundant, and good enough for the task at hand. If the capitalist wants to discover whether aluminium or titanium is superior he cannot simply consult which other lines of production they are used within and their material properties---he would have to perform economic calculation. Very simply, he compares the input cost vs the profits he can make to see which is superior:
 
 | Material  | Cost  | Profit | Profit - Cost |
-| --------- | ----- | ------ | ------------- |
+| :-------- | :---- | :----- | :------------ |
 | Aluminium | $324k | $462k  | +$138k        |
 | Titanium  | $702k | $654k  | -$48k         |
 
