@@ -8,6 +8,7 @@ aliases:
   - ECP
   - economic calculation problem
 ---
+--: | :--
 (p1) | Without private direction of the factors of production there can be no exchange of the factors of production.
 (p2) | Without exchange there can be no prices.
 (c1) | $\therefore$ Without private direction of the factors there can be no factor prices. (p1-p2)
