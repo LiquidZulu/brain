@@ -9,6 +9,7 @@ aliases:
   - economic calculation problem
 ---
 
+
 | <!-- --> | <!-- -->                                                                                                                                                                                                                                   |
 | -------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     (p1) | [[Exchange iff Private Direction\|Without private direction of the factors of production there can be no exchange of the factors of production.]]                                                                                          |
