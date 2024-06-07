@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Economic Calculation Problem.md",
+                "file": "The Role of Language for a Conceptual Being.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb2e54f8f7614fb8",
+            "id": "0b8addeda18f7932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "God as Omnipotent.md",
+                "file": "The Role of Definition for a Conceptual Being.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6a838bf3642aa3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Economic Calculation Problem.md",
+                "file": "The Role of Definition for a Conceptual Being.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Economic Calculation Problem.md",
+                "file": "The Role of Definition for a Conceptual Being.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Economic Calculation Problem.md"
+                "file": "The Role of Definition for a Conceptual Being.md"
               }
             }
           },
@@ -169,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Economic Calculation Problem.md"
+                "file": "The Role of Definition for a Conceptual Being.md"
               }
             }
           }
@@ -191,13 +204,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8db98625be4a42a2",
+  "active": "0b8addeda18f7932",
   "lastOpenFiles": [
-    "Innate Knowledge as a Violation of Causality.md",
+    "Definition.md",
+    "The Role of Definition for a Conceptual Being.md",
+    "Floating Abstraction.md",
+    "The Role of Language for a Conceptual Being.md",
+    "God as Omnipotent.md",
     "The Economic Calculation Problem.md",
+    "Innate Knowledge as a Violation of Causality.md",
     "Is Free Will Magic.md",
     "Does Omnipotence Include The Ability to make Contradictions True.md",
-    "God as Omnipotent.md",
     "God as a Rejection of the Basic Axioms.md",
     "The Conflation of Empiricism and Nominalism-Sensualism.md",
     "Empiricism.md",
@@ -215,10 +232,6 @@
     "Epistemic Authoritarianism.md",
     "The Primacy of Consciousness as the Fundamental Error.md",
     "The Categories of Being.md",
-    "The Primary-Secondary Quality Distinction.md",
-    "Philosophy.md",
-    "The Epistemic Role of Measurement.md",
-    "The Objectivist Theory of Concepts.md",
     "sedyCQvN5",
     "Untitled.canvas"
   ]
